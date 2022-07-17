@@ -90,4 +90,12 @@ class GitTest {
 
     }
 
+
+    public void sing4() {
+
+        System.out.println("Sing mojito~~~~~~");
+
+    }
+
+
 }
