@@ -1,0 +1,108 @@
+
+K
+java:S1854/"5Remove this useless assignment to local variable "i".(­š‚ö
+J
+java:S1611"/Remove the parentheses around the "x" parameter(­ÅÑ–øÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(­ÅÑ–øÿÿÿÿ
+A
+java:S1905!"&Remove this unnecessary cast to "int".(ë©—Óýÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ãŽŒ¦ýÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ýù‚´
+<
+java:S1481/"&Remove this unused "i" local variable.(­š‚ö
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Íåâ§üÿÿÿÿ
+J
+java:S16117"/Remove the parentheses around the "x" parameter(Íåâ§üÿÿÿÿ
+n
+java:S16027"SRemove useless curly braces around statement and then remove useless return keyword(Íåâ§üÿÿÿÿ
+W
+java:S16127"<Replace this lambda with method reference 'int.class::cast'.(Íåâ§üÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¶‚¢êûÿÿÿÿ
+n
+java:S1602>"SRemove useless curly braces around statement and then remove useless return keyword(¶‚¢êûÿÿÿÿ
+`
+java:S1764@"JCorrect one of the identical sub-expressions on both sides of operator "/"(²³Ä€
+`
+java:S1764@"JCorrect one of the identical sub-expressions on both sides of operator "/"(²³Ä€
+S	java:S106F"9Replace this use of System.out or System.err by a logger.( »¢œÿÿÿÿÿ
+J
+java:S1611F"/Remove the parentheses around the "x" parameter( »¢œÿÿÿÿÿ
+n
+java:S1602F"SRemove useless curly braces around statement and then remove useless return keyword( »¢œÿÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ÍŸìÞ
+V	java:S125L"<This block of commented-out lines of code should be removed.(‡÷ò¾ûÿÿÿÿ
+E
+java:S1611j"/Remove the parentheses around the "x" parameter(ÊÍýê
+i
+java:S1602j"SRemove useless curly braces around statement and then remove useless return keyword(ÊÍýê
+h
+java:S1602n"SRemove useless curly braces around statement and then remove useless return keyword(©–<
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(¼ðŠê
+J
+java:S1611x"/Remove the parentheses around the "x" parameter(µ ÊÂúÿÿÿÿ
+G
+java:S1602x",Remove useless curly braces around statement(µ ÊÂúÿÿÿÿ
+[
+java:S1612x"@Replace this lambda with method reference 'System.out::println'.(µ ÊÂúÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+J
+java:S1611~"/Remove the parentheses around the "x" parameter(³åÏÜÿÿÿÿÿ
+n
+java:S1602~"SRemove useless curly braces around statement and then remove useless return keyword(³åÏÜÿÿÿÿÿ
+i
+java:S1602‚"SRemove useless curly braces around statement and then remove useless return keyword(©–<
+K
+java:S1611†"/Remove the parentheses around the "x" parameter(©”¬ìûÿÿÿÿ
+H
+java:S1602†",Remove useless curly braces around statement(©”¬ìûÿÿÿÿ
+\
+java:S1612†"@Replace this lambda with method reference 'System.out::println'.(©”¬ìûÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(·¤Îß
+F
+java:S1611Œ"/Remove the parentheses around the "x" parameter(·¤Îß
+j
+java:S1602Œ"SRemove useless curly braces around statement and then remove useless return keyword(·¤Îß
+Z
+java:S1612Œ"CReplace this lambda with method reference 'Transaction::getTrader'.(·¤Îß
+F
+java:S1611"/Remove the parentheses around the "x" parameter(Ó§ƒ•
+j
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ó§ƒ•
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(·¤Îß
+F
+java:S1611–"/Remove the parentheses around the "x" parameter(·¤Îß
+j
+java:S1602–"SRemove useless curly braces around statement and then remove useless return keyword(·¤Îß
+Y
+java:S1612–"BReplace this lambda with method reference 'Transaction::getValue'.(·¤Îß
+O	java:S106"9Replace this use of System.out or System.err by a logger.(·¤Îß
+F
+java:S1611"/Remove the parentheses around the "x" parameter(·¤Îß
+j
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(·¤Îß
+Y
+java:S1612"BReplace this lambda with method reference 'Transaction::getValue'.(·¤Îß
+o
+java:S1602¡"SRemove useless curly braces around statement and then remove useless return keyword(¶ƒ¢âøÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Ä®‹Ÿøÿÿÿÿ
+o
+java:S1602§"SRemove useless curly braces around statement and then remove useless return keyword(Ä®‹Ÿøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Àö•
+o
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(²´ðÎ
+`
+java:S1192]"JDefine a constant instead of duplicating this literal "Cambridge" 4 times.(ý…ÿ‡
+g
+java:S1104¶"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+f
+java:S1104·"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+p
+java:S1104¸"TMake isArcane a static final constant or non-public and provide accessors if needed.(Õ±‘³þÿÿÿÿ
+S
+java:S4973€"<Strings and Boxed types should be compared using "equals()".(™¸Ê¨
+R
+java:S4973’"<Strings and Boxed types should be compared using "equals()".(Ñ©•;
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹±¸R

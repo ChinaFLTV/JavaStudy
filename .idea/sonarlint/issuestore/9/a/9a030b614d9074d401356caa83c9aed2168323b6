@@ -1,0 +1,68 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(âÛĞ¬úÿÿÿÿ8«¼Œâ€0
+L
+java:S3740"/Provide the parametrized type for this generic.(æ€¹ˆ8®¼Œâ€0
+L
+java:S3740!"/Provide the parametrized type for this generic.(…£‹Ò8¯¼Œâ€0
+Q
+java:S3740$"/Provide the parametrized type for this generic.(‚±•²ûÿÿÿÿ8¯¼Œâ€0
+L
+java:S3740)"/Provide the parametrized type for this generic.(Ì¡û†8°¼Œâ€0
+L
+java:S37402"/Provide the parametrized type for this generic.(Šÿ¤8°¼Œâ€0
+L
+java:S3740="/Provide the parametrized type for this generic.(Ê™‰ê8°¼Œâ€0
+L
+java:S3740F"/Provide the parametrized type for this generic.(¶™ÿá8²¼Œâ€0
+Q
+java:S3740L"/Provide the parametrized type for this generic.(¦øÂãÿÿÿÿÿ8²¼Œâ€0
+M
+java:S3740ò"/Provide the parametrized type for this generic.(¬ÒØÖ8´¼Œâ€0
+X
+java:S1854""6Remove this useless assignment to local variable "s1".(³¬³æüÿÿÿÿ8©½Œâ€0
+R
+java:S1854 "5Remove this useless assignment to local variable "s".(öƒú·8ª½Œâ€0
+C
+java:S1481 "&Remove this unused "s" local variable.(öƒú·8’¾Œâ€0
+I
+java:S1481""'Remove this unused "s1" local variable.(³¬³æüÿÿÿÿ8•¾Œâ€0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(êüâùûÿÿÿÿ8š¾Œâ€0
+I
+java:S3011.",This accessibility bypass should be removed.(×ãÓ8¥¾Œâ€0
+I
+java:S3011/",This accessibility bypass should be removed.(Á„ñØ8§¾Œâ€0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(’¿É®8ª¾Œâ€0
+I
+java:S30115",This accessibility update should be removed.(ÍĞóØ8²¾Œâ€0
+N
+java:S30116",This accessibility bypass should be removed.(©ù‚½şÿÿÿÿ8µ¾Œâ€0
+I
+java:S30118",This accessibility update should be removed.(Ûó¡Š8¹¾Œâ€0
+T	java:S1069"9Replace this use of System.out or System.err by a logger.(®¸8¼¾Œâ€0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Şèïø8¿¾Œâ€0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(çÂİıÿÿÿÿ8Â¾Œâ€0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Õı‡¥ÿÿÿÿÿ8Ä¾Œâ€0
+^	java:S899P"BDo something with the "boolean" value returned by "createNewFile".(§˜ı8È¾Œâ€0
+\
+java:S1118o":Add a private constructor to hide the implicit public one.(áº±óşÿÿÿÿ8æ¾Œâ€0
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(¨å®Ç8ğ¾Œâ€0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÄ­å8õ¾Œâ€0
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(á…ßœùÿÿÿÿ8ø¾Œâ€0
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(‹÷Œœ8ı¾Œâ€0
+?
+java:S1116Ö"Remove this empty statement.(Åñ­õşÿÿÿÿ8¿Œâ€0
+?
+java:S1116à"Remove this empty statement.(Åñ­õşÿÿÿÿ8‚¿Œâ€0
+[	java:S106ö"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8“¿Œâ€0
+J
+java:S1144‘",Remove this unused private "getName" method.(ù…ÍË8œ¿Œâ€0
+o
+java:S1192""MDefine a constant instead of duplicating this literal "Taylor Swift" 3 times.(³¬³æüÿÿÿÿ8¥¿Œâ€0
+n
+java:S1104‹"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8­¿Œâ€0
+m
+java:S1104Œ"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8­¿Œâ€0
+S
+java:S1143ƒ"5Remove this return statement from this finally block.(µÑŸî8¼¿Œâ€0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­÷›8Â¿Œâ€0

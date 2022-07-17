@@ -1,0 +1,25 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£·ÿé
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Şü‹úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÊ¯øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹´‡ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İßÖğ
+V
+java:S1854I";Remove this useless assignment to local variable "MassNum".(º…€ÿÿÿÿÿ
+G
+java:S1481I",Remove this unused "MassNum" local variable.(º…€ÿÿÿÿÿ
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜È™¶
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°À¬Í
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÒ±ş
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨«Ì½
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñóû
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤´Ê·
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ˆ ãùÿÿÿÿ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÒ±ş
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢©Õø
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º…€ÿÿÿÿÿ
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±×´Ë
+k	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° èöıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñôÄ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï‘Üc

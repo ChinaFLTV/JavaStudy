@@ -1,0 +1,39 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ„–
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÅÁ±ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(«ÀÊ½ùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(­Ìñ‹øÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Şãé
+N	java:S106("9Replace this use of System.out or System.err by a logger.(î¯±ó
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÑïúÒ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ó£½šùÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(âŞ©u
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ë¤€÷úÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(û™ë¹
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ë—¶œ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Şèïø
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ØÑó•şÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(Á®©ìøÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Ø§Ğ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(‚êşç
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(õÉŒ¤
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(‚êşç
+F
+java:S2093–"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+c	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½Ùd
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(Åô ëøÿÿÿÿ
+F
+java:S2093»"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+W
+java:S2259s"AA "NullPointerException" could be thrown; "os2" is nullable here.(ßÆ¤Á
+[
+java:S2259n"@A "NullPointerException" could be thrown; "s2" is nullable here.(¾İ§ úÿÿÿÿ
+_
+java:S2095h"DUse try-with-resources or close this "Socket" in a "finally" clause.(ÎÏè…ıÿÿÿÿ
+e
+java:S2095A"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Á¶Úéÿÿÿÿÿ
+[
+java:S2095˜"DUse try-with-resources or close this "Socket" in a "finally" clause.(ÜºÂè
+a
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¯½öƒ

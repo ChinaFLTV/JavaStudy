@@ -1,0 +1,21 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÑÇ€äùÿÿÿÿ
+O
+java:S2387"4"modCount" is the name of a field in "AbstractList".(·Œ”ûÿÿÿÿ
+F
+java:S2160"+Override the "equals" method in this class.(ÑÇ€äùÿÿÿÿ
+K
+java:S2065"0Remove the "transient" modifier from this field.(·Œ”ûÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ÉëŞ„şÿÿÿÿ8¯œ’‚ù/
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï²‡üÿÿÿÿ
+m
+java:S21773"WRename this method; there is a "private" method in the parent class with the same name.(ÿ§Ú¶
+Q	java:S125;"<This block of commented-out lines of code should be removed.(¨Ô³
+7
+java:S1116H"Remove this empty statement.(Åñ­õşÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8½œ’‚ù/
+P
+java:S11449":Remove this unused private "checkForComdification" method.(ïÜ¦¿
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯öêûÿÿÿÿ

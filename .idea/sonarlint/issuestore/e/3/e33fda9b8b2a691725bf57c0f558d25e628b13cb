@@ -1,0 +1,75 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÜŸò
+i
+java:S1854/"SRemove this useless assignment to local variable "inputText_afterRecMsg_charArray".(ºšÊ 
+d
+java:S1854."IRemove this useless assignment to local variable "inputText_afterRecMsg".(ÊœÍüÿÿÿÿ
+P
+java:S1854:":Remove this useless assignment to local variable "length".(ñßàã
+p
+java:S1854B"SRemove this useless assignment to local variable "inputText_startCommun_charArray".(‚ú¨8ËÕÍ¥ş/
+e
+java:S1854A"IRemove this useless assignment to local variable "inputText_startCommun".(Ÿ¾²8ÌÕÍ¥ş/
+i
+java:S1854@"GRemove this useless assignment to local variable "scanner_startCommun".(Ñıíüÿÿÿÿ8øÛ¥ş/
+
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ëÜŸò
+U
+java:S1481.":Remove this unused "inputText_afterRecMsg" local variable.(ÊœÍüÿÿÿÿ
+Z
+java:S1481/"DRemove this unused "inputText_afterRecMsg_charArray" local variable.(ºšÊ 
+@
+java:S14819"+Remove this unused "length" local variable.(‚›5
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(½ò¦Öÿÿÿÿÿ
+Z
+java:S1481@"8Remove this unused "scanner_startCommun" local variable.(Ñıíüÿÿÿÿ8‚Û¥ş/
+V
+java:S1481A":Remove this unused "inputText_startCommun" local variable.(Ÿ¾²8ÚÙÛ¥ş/
+a
+java:S1481B"DRemove this unused "inputText_startCommun_charArray" local variable.(‚ú¨8å³Ü¥ş/
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸Ï€
+W
+java:S1854u":Remove this useless assignment to local variable "length".(ñßàã8ËÕÍ¥ş/
+p
+java:S1854}"SRemove this useless assignment to local variable "inputText_afterRecMsg_charArray".(ºšÊ 8™Ø¥ş/
+k
+java:S1854|"IRemove this useless assignment to local variable "inputText_afterRecMsg".(ÊœÍüÿÿÿÿ8™Ø¥ş/
+
+java:S1130a"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ã¸Ï€
+G
+java:S1481t"+Remove this unused "length" local variable.(‚›58ÏÕÍ¥ş/
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(½ò¦Öÿÿÿÿÿ8ĞÕÍ¥ş/
+\
+java:S1481|":Remove this unused "inputText_afterRecMsg" local variable.(ÊœÍüÿÿÿÿ8œØ¥ş/
+a
+java:S1481}"DRemove this unused "inputText_afterRecMsg_charArray" local variable.(ºšÊ 8Ø¥ş/
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÑë¾
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÉˆÒüÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊœÍüÿÿÿÿ
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºšÊ 
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñıíüÿÿÿÿ8ÒÕÍ¥ş/
+l	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¾²8ÒÕÍ¥ş/
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ú¨8ÓÕÍ¥ş/
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ïˆ†
+m	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÑë¾8ĞÏ¥ş/
+r	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÉˆÒüÿÿÿÿ8Ø¥ş/
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊœÍüÿÿÿÿ8Ø¥ş/
+m	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºšÊ 8Ø¥ş/
+n	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ïˆ†8ÓÕÍ¥ş/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+e
+java:S2095!"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ïßÆëûÿÿÿÿ
+Z
+java:S2095c"DUse try-with-resources or close this "Socket" in a "finally" clause.(àü…¸
+?
+java:S2189p""Add an end condition to this loop.(‹ªœš8ùÕÍ¥ş/
+8
+java:S21895""Add an end condition to this loop.(‹ªœš
+M
+java:S25895"7Remove this expression which always evaluates to "true"(‹ªœš
+T
+java:S2589p"7Remove this expression which always evaluates to "true"(‹ªœš8úÕÍ¥ş/

@@ -1,0 +1,39 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+A
+java:S1172("+Remove this unused method parameter "girl".(‘œ¬
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(µ±¹È
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(±‰çğ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ß§÷óÿÿÿÿÿ
+@
+java:S1172h"*Remove this unused method parameter "boy".(‘…˜
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ˆ‹„‰øÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ß§÷óÿÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(Œ„Ú
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+:
+java:S1128"%Remove this unused import 'java.net'.(Ğ‡
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí
+;
+java:S1128	"%Remove this unused import 'java.sql'.(´İ…Å
+;
+java:S1128
+"%Remove this unused import 'java.awt'.(ï´µ©
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄçÉÿÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+f
+java:S1104M"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104N"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æˆšÖÿÿÿÿÿ
+R
+java:S4973p"<Strings and Boxed types should be compared using "equals()".(­˜»Ë
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œí·„

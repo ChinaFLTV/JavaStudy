@@ -1,0 +1,25 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êù´ùıÿÿÿÿ
+G
+java:S2387#","name" is the name of a field in "Person_2".(Ñ´©°øÿÿÿÿ
+U
+java:S1161,":Add the "@Override" annotation above this method signature(©äÁ”ÿÿÿÿÿ
+7
+java:S1116>"Remove this empty statement.(Åñ­õşÿÿÿÿ
+>
+java:S1116e"Remove this empty statement.(Åñ­õşÿÿÿÿ8ìÉÓó/
+>
+java:S10687"(Remove this unused "name" private field.(Ë¥¼
+B
+java:S10688"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ
+H
+java:S10689"-Remove this unused "birthDate" private field.(Ê²Àúÿÿÿÿÿ
+E
+java:S1068a"*Remove this unused "school" private field.(¨Ô¥äúÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’É‡ÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õô—îøÿÿÿÿ
+g	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œûòşÿÿÿÿ
+g	java:S1015"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼‘ÄĞûÿÿÿÿ
+a	java:S101_"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(í½œ:
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‰Äùùÿÿÿÿ

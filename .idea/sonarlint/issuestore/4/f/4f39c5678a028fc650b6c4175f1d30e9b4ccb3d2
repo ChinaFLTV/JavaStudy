@@ -1,0 +1,22 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞªìÈÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Åœ˜»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ˆûÞ&
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Ù©È±
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(©¤®Òûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Ù©È±
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8¤…šÕò/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÞªìÈÿÿÿÿÿ8¾ôšÕò/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ8üæ›Õò/
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆˆì½
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ää¹
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã±²
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÈÿ
+Y
+java:S1226G">Introduce a new variable instead of reusing the parameter "a".(Ñ¼¯îüÿÿÿÿ
+T
+java:S1226H">Introduce a new variable instead of reusing the parameter "b".(ð¤Å 

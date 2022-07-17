@@ -1,0 +1,52 @@
+
+7
+java:S11161"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S11169"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116A"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116I"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116T"Remove this empty statement.(Åñ­õþÿÿÿÿ
+t	java:S115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ý”—…úÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(óàÚåüÿÿÿÿ
+u	java:S115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÅŒµùÿÿÿÿ
+u	java:S115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó¹•šüÿÿÿÿ
+u	java:S115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÛçìùÿÿÿÿ
+R	java:S125–"<This block of commented-out lines of code should be removed.(Œˆ»Ž
+8
+java:S1116¡"Remove this empty statement.(Åñ­õþÿÿÿÿ
+p	java:S115¼"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä…Öé
+u	java:S115½"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñéû¥øÿÿÿÿ
+u	java:S115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¹¾‚øÿÿÿÿ
+p	java:S115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹Ÿ«³
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(“¥íÞ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(ÌçÆ¥ûÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šÆœ‚ùÿÿÿÿ
+L
+java:S1854û"5Remove this useless assignment to local variable "b".(¶¶ØÖ
+Q
+java:S1854ù"5Remove this useless assignment to local variable "a".(š¡ûÄþÿÿÿÿ
+=
+java:S1481û"&Remove this unused "b" local variable.(¶¶ØÖ
+8
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ
+8
+java:S1116š"Remove this empty statement.(Åñ­õþÿÿÿÿ
+
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô¾·éûÿÿÿÿ
+d	java:S119 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ø¸Üøÿÿÿÿ
+D
+java:S1172¦"(Remove this unused method parameter "t".(Ô¾·éûÿÿÿÿ
+8
+java:S1116©"Remove this empty statement.(Åñ­õþÿÿÿÿ
+X
+java:S1128"=Remove this unused import 'javax.lang.model.element.Element'.(¦¶¡›üÿÿÿÿ
+>
+java:S1068¢"'Remove this unused "num" private field.(¥Û¾º
+c	java:S101Ö"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÞŸ‰
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ™¼Šþÿÿÿÿ
+Z
+java:S1226ù">Introduce a new variable instead of reusing the parameter "a".(š¡ûÄþÿÿÿÿ

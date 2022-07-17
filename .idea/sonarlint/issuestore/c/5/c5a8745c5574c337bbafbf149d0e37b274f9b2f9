@@ -1,0 +1,24 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ˆ×
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šäÁşøÿÿÿÿ
+T
+java:S1854 "9Remove this useless assignment to local variable "index".(‘Ççóùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ú•›
+V	java:S125;"<This block of commented-out lines of code should be removed.(ûÏ¨¼ûÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(‰ÿ¯€
+V	java:S125S"<This block of commented-out lines of code should be removed.(ıœÿ»üÿÿÿÿ
+c	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…™‰
+T
+java:S1854x"7Remove this useless assignment to local variable "max".(—óØ«8õ¢³„0
+E
+java:S1481x"(Remove this unused "max" local variable.(—óØ«8ö¢³„0
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(©ï†„8÷¢³„0
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(°àºÿÿÿÿÿ
+d	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯´‘
+D	java:S108“")Either remove or fill this block of code.(»ª­ëıÿÿÿÿ
+Y
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÆÃ‡×
+r
+java:S1192"WDefine a constant instead of duplicating this literal "abkkcadkabkebfkabkskab" 3 times.(¿µÇ÷ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞóŞôüÿÿÿÿ

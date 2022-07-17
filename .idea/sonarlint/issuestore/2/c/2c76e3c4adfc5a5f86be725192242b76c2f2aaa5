@@ -1,0 +1,31 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯®…¥ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·¶âşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø¿âÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( …“ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à‹ÑÆıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÿ¾±’ûÿÿÿÿ
+7
+java:S11160"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116j"Remove this empty statement.(Åñ­õşÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(çâÎ‚şÿÿÿÿ
+Q	java:S125w"<This block of commented-out lines of code should be removed.(Œ·Ó—
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ÈÉ¼¯ıÿÿÿÿ
+8
+java:S1116Ç"Remove this empty statement.(Åñ­õşÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(ÈÉ¼¯ıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÂ…§
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÉ×‰ıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úù¤Íşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™Õğúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™Õğúÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¶½º
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÙ…•úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—œš„øÿÿÿÿ
+g	java:S101d"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æĞıÚúÿÿÿÿ
+S
+java:S4973˜"<Strings and Boxed types should be compared using "equals()".(á†êŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‰Äùùÿÿÿÿ

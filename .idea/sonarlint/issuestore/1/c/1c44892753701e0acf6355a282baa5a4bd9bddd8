@@ -1,0 +1,37 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+7
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ
+X
+java:S1854("BRemove this useless assignment to local variable "bufferedReader".(ÕÃà·
+T
+java:S1854[">Remove this useless assignment to local variable "readLength".(éóÝ‡
+“
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(¾ûÊŽúÿÿÿÿ
+]	java:S125""<This block of commented-out lines of code should be removed.(â›ñ¦ýÿÿÿÿ8²ªíÀþ/
+]	java:S1250"<This block of commented-out lines of code should be removed.(×²Ðãÿÿÿÿÿ8“…çÀþ/
+Q	java:S1252"<This block of commented-out lines of code should be removed.(²œš„
+V	java:S1256"<This block of commented-out lines of code should be removed.(èç«Ûøÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Ò¦§à
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(£‡ÞÂ
+]	java:S125X"<This block of commented-out lines of code should be removed.(×²Ðãÿÿÿÿÿ8ãøëÀþ/
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(‰Áž¬ûÿÿÿÿ
+X
+java:S1854t"BRemove this useless assignment to local variable "bufferedReader".(ÕÃà·
+X
+java:S1854s"BRemove this useless assignment to local variable "bufferedWriter".(Ÿµó’
+U
+java:S1854“">Remove this useless assignment to local variable "readLength".(éóÝ‡
+Ž
+java:S1130l"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ˆšÊ³
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÍÆ¾ýÿÿÿÿ8ï“ÐÀþ/
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(ìÒŒ
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(‰Áž¬ûÿÿÿÿ8Ê«ÚÀþ/
+b
+java:S1192M"LDefine a constant instead of duplicating this literal "Receive in " 3 times.(£‡ÞÂ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+`
+java:S2095n"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ä–¡
+Y
+java:S2095!"DUse try-with-resources or close this "Socket" in a "finally" clause.(¶éÓ

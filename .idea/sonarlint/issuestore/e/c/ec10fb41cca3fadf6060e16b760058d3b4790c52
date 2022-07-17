@@ -1,0 +1,62 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "cs".(³ÆĞ²
+˜
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(Ô‰‚õùÿÿÿÿ
+=
+java:S1481"'Remove this unused "cs" local variable.(³ÆĞ²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Âé×ùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(“ úH
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(…´½÷ûÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(§Õ¿˜şÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(‘ôó•
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(“£·¿
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¾™Íò
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(èšæ”ıÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(»İÑıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(µ¯€º
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(®ºÖñøÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(­™õıÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ìÙë
+O
+java:S5993="9Change the visibility of this constructor to "protected".(˜í·Ÿ
+7
+java:S1116c"Remove this empty statement.(Åñ­õşÿÿÿÿ
+r
+java:S3923„"[Remove this conditional structure or edit its code blocks so that they're not all the same.(“Ç¤Ï
+u
+java:S1171™"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171É"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+˜
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ö¥æ
+V
+java:S1118ñ":Add a private constructor to hide the implicit public one.(ÍÊ­¸şÿÿÿÿ
+8
+java:S1116÷"Remove this empty statement.(Åñ­õşÿÿÿÿ
+4
+java:S2119ü"Save and re-use this "Random".(¼İÅf
+.
+java:S2140‚"Use "nextInt()" instead.(–»õF
+.
+java:S2140"Use "nextInt()" instead.(³Í¨
+T	java:S106"9Replace this use of System.out or System.err by a logger.(­õîûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(½¼‘…øÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(ÚŞ•´
+4
+java:S2119é"Save and re-use this "Random".(¼İÅf
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+d
+java:S1192·"MDefine a constant instead of duplicating this literal "\t\tnumber: " 4 times.( ùÚ„
+f
+java:S1192·"ODefine a constant instead of duplicating this literal "\t\tbirthday: " 4 times.( ùÚ„
+^
+java:S1192·"GDefine a constant instead of duplicating this literal "name: " 4 times.( ùÚ„
+3
+java:S1643Æ"Use a StringBuilder instead.(áÄ£
+8
+java:S1643ò"Use a StringBuilder instead.(±ˆôèüÿÿÿÿ
+b	java:S1017"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹ˆ¸Ä
+b	java:S101["MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙùË‚
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÉ

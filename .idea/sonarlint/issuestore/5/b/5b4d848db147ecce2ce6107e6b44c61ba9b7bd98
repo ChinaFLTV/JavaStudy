@@ -1,0 +1,54 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "t1".(ç›“
+K
+java:S1854"5Remove this useless assignment to local variable "t".(ÇËìÂ
+<
+java:S1481"&Remove this unused "t" local variable.(ÇËìÂ
+=
+java:S1481"'Remove this unused "t1" local variable.(ç›“
+{
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(¾şåŠùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­™õıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÿÂğşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èÙ¤ã
+K
+java:S2209"5Change this instance-reference to a static reference.(ë‰ö’
+V	java:S125!"<This block of commented-out lines of code should be removed.(ÉŠÖíùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‚çöÎ
+v
+java:S1217%"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(‚ØÆ·
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‚çöÎ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Å£æ•ùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Î€© üÿÿÿÿ
+6
+java:S2438,""Argument 1" is a "Thread".(éè÷¹ıÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(×‰ëŠ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(èÙ¤ã
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(İÅ‚ïøÿÿÿÿ
+X	java:S1258"<This block of commented-out lines of code should be removed.(Ğâ8‹çé¨ƒ0
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(İÅ‚ïøÿÿÿÿ
+X	java:S125;"<This block of commented-out lines of code should be removed.(Ğâ8Œçé¨ƒ0
+B
+java:S1874@",Remove this use of "stop"; it is deprecated.(Ù‡Õé
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(éşú±ÿÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ùİ­Ô
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ùİ­Ô
+L
+java:S2446J"0"notify" may not wake up the appropriate thread.(ßÒ¾8¾¥š©ƒ0
+l
+java:S2236J"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(ßÒ¾8¾¥š©ƒ0
+~
+java:S2273J"bMove this call to "notify()" into a synchronized block to be sure the monitor on "Thread" is held.(ßÒ¾8¾¥š©ƒ0
+]	java:S125G"<This block of commented-out lines of code should be removed.(æÈ–øÿÿÿÿ8ÙÙ’©ƒ0
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(Ã Œëÿÿÿÿÿ
+Q	java:S125k"<This block of commented-out lines of code should be removed.(ó‚—
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(–øÃºúÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(·Ñ»úÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ÎÏ¡‡üÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ø Ååùÿÿÿÿ
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(¢ÙÒÉÿÿÿÿÿ8ºşê¨ƒ0
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(®ŞñÉÿÿÿÿÿ8×õí¨ƒ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç³¡ÿÿÿÿÿ

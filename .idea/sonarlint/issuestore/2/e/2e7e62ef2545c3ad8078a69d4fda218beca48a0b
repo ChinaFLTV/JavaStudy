@@ -1,0 +1,12 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "array_new".(ì§Ï«úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É®×Åøÿÿÿÿ
+I
+java:S1481".Remove this unused "array_new" local variable.(ì§Ï«úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´œªôıÿÿÿÿ
+}
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÉÑàşÿÿÿÿ8¥®’Šò/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§Ï«úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æäÖ’üÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï‘Üc

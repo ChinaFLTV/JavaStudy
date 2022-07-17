@@ -1,0 +1,36 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µöŞˆ
+C
+java:S1481!"(Remove this unused "out" local variable.(ÊÃîôùÿÿÿÿ
+=
+java:S1481""'Remove this unused "in" local variable.(Ö•÷Î
+W
+java:S1075)"ARefactor your code to get this URI from a customizable parameter.(ÁªğÙ
+h	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ®í¾ıÿÿÿÿ
+C
+java:S1481G"(Remove this unused "out" local variable.(ÊÃîôùÿÿÿÿ
+=
+java:S1481H"'Remove this unused "in" local variable.(Ö•÷Î
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ÿûøş
+c	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ıŠ
+‰
+java:S1130d"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(«ıŠ
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Âçşÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ÿûøş
+o
+java:S1104"SMake fakeAge a static final constant or non-public and provide accessors if needed.(º×•88ŒÎ’ÿ/
+v
+java:S1104"TMake fakeName a static final constant or non-public and provide accessors if needed.(ö±†ûÿÿÿÿ8Œ‘’ÿ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+b
+java:S2095f"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¡ß°Â
+`
+java:S2095'"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(‹Û³™
+b
+java:S2095)"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÁªğÙ
+g
+java:S2095q"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(–ÑŸœıÿÿÿÿ
+_
+java:S2095M"DUse try-with-resources or close this "Socket" in a "finally" clause.(íõöŠıÿÿÿÿ

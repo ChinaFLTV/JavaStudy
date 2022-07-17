@@ -1,0 +1,50 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(÷¹±'
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í¤‡ƒøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÇ¡Úúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(â‘êK
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…Çøïùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(È¨Ák
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë·‰·úÿÿÿÿ
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Œ¢÷ö8çÿè÷/
+X	java:S125""<This block of commented-out lines of code should be removed.(·¯Å8çÿè÷/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÖŞë8èÿè÷/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ô½ó8èÿè÷/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Óƒâèùÿÿÿÿ8éÿè÷/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ñÓ¸›ûÿÿÿÿ8éÿè÷/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Àÿ‡áøÿÿÿÿ8êÿè÷/
+]	java:S1255"<This block of commented-out lines of code should be removed.(äŠ‘¿ùÿÿÿÿ8êÿè÷/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÃÍéüÿÿÿÿ8êÿè÷/
+j	java:S116K"URename this field "SEASONNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¤ø
+v	java:S116L"URename this field "SEASONDESC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹åù“ûÿÿÿÿ8ëÿè÷/
+]	java:S125V"<This block of commented-out lines of code should be removed.(ÿÿ˜“ùÿÿÿÿ8ìÿè÷/
+¤
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÍªàşÿÿÿÿ8ğÿè÷/
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(Á·ãé8óÿè÷/
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(ÇåİÆşÿÿÿÿ8ôÿè÷/
+X
+java:S1133®"5Do not forget to remove this deprecated code someday.(ÃÍªàşÿÿÿÿ8öÿè÷/
+K
+java:S1123®"(Add the missing @deprecated Javadoc tag.(ÃÍªàşÿÿÿÿ8øÿè÷/
+?
+java:S1116°"Remove this empty statement.(Åñ­õşÿÿÿÿ8øÿè÷/
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Á·ãé8úÿè÷/
+^	java:S125É"<This block of commented-out lines of code should be removed.(ò‘‚¼øÿÿÿÿ8úÿè÷/
+V	java:S106Û"9Replace this use of System.out or System.err by a logger.(Á·ãé8üÿè÷/
+^	java:S125á"<This block of commented-out lines of code should be removed.(ò‘‚¼øÿÿÿÿ8üÿè÷/
+V	java:S106ò"9Replace this use of System.out or System.err by a logger.(Á·ãé8ÿÿè÷/
+^	java:S125ø"<This block of commented-out lines of code should be removed.(ò‘‚¼øÿÿÿÿ8€ÿè÷/
+Y	java:S125•"<This block of commented-out lines of code should be removed.(Á»›ê8ÿè÷/
+D
+java:S1068K".Remove this unused "SEASONNAME" private field.(é¤ø
+P
+java:S1068L".Remove this unused "SEASONDESC" private field.(¹åù“ûÿÿÿÿ8„ÿè÷/
+G
+java:S1068j"1Remove this unused "celebrityName" private field.(‘­îƒ
+R
+java:S1068k"0Remove this unused "celebrityAge" private field.(’×ÛŒøÿÿÿÿ8„ÿè÷/
+j
+java:S1192æ"GDefine a constant instead of duplicating this literal "Russia" 3 times.(øÃ¬úúÿÿÿÿ8…ÿè÷/
+w
+java:S1192¡"YDefine a constant instead of duplicating this literal "hhhhhhhhhhhhhhhhhhhhhhhh" 4 times.(Á·ãé8…ÿè÷/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ™¼Šşÿÿÿÿ

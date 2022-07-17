@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(é™Ûî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã†¨Î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úó‡©ùÿÿÿÿ
+x
+java:S3923#"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÍÕ×®8ÑŞ¦×ò/
+S	java:S106."9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+h
+java:S1128"FRemove this unused import 'javax.xml.stream.XMLStreamConstants.SPACE'.(ûó•‹úÿÿÿÿ8Á¢¤×ò/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ™Ñ…şÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆáÔö
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙÔË‘
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ç£ÿÿÿÿÿ

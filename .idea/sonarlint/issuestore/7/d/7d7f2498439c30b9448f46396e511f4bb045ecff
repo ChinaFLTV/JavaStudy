@@ -1,0 +1,84 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¢®¬´üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¢®¬´üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¥ÇÚİÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¥ÇÚİÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ñº‰“úÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ñº‰“úÿÿÿÿ
+E
+java:S3740]"/Provide the parametrized type for this generic.(„¢‘‡
+E
+java:S3740y"/Provide the parametrized type for this generic.(«¤ş
+J
+java:S3740"/Provide the parametrized type for this generic.(¹‘Ï“øÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñº‰“úÿÿÿÿ
+€
+java:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒâÛ®úÿÿÿÿ
+€
+java:S1149N"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(äò±¶şÿÿÿÿ
+P
+java:S1854]":Remove this useless assignment to local variable "list12".(„¢‘‡
+T
+java:S18542"9Remove this useless assignment to local variable "list5".(ùêÏèûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÓÀ¶Ï
+P
+java:S2479-":Remove the non-escaped \u3000 character from this literal.(ÓÀ¶Ï
+E
+java:S14812"*Remove this unused "list5" local variable.(ùêÏèûÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(»`
+V	java:S125="<This block of commented-out lines of code should be removed.(†è‹øÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(‰²
+V	java:S125B"<This block of commented-out lines of code should be removed.(İË¤€ùÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(¨Ë±ûÿÿÿÿ
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ÚèÁ"
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(™Œ’şÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(Öáõ§
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(²”İ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(˜ôÛ¼ıÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ŸâÃúÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(˜ôÛ¼ıÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ŸâÃúÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(âÉ¡™ıÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ÒÚ«¡
+A
+java:S2175W"+A "ArrayList<Long>" cannot contain a "int".(ÒÚ«¡
+M	java:S106Z"9Replace this use of System.out or System.err by a logger.(²”İ
+M	java:S106\"9Replace this use of System.out or System.err by a logger.(²”İ
+A
+java:S1481]"+Remove this unused "list12" local variable.(„¢‘‡
+V	java:S125l"<This block of commented-out lines of code should be removed.(Û›Äêûÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(©¦°Î
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(Á‚°Ÿÿÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(í·Å×øÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(³ë™
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ùö„ó
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(Ç‰¹‡ıÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(©Ñë›şÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(éŸçÖıÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(‹¤·Ñ
+W	java:S125…"<This block of commented-out lines of code should be removed.(–€şÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(©¦°Î
+O	java:S106"9Replace this use of System.out or System.err by a logger.(½æ—±
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(éŸçÖıÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ßÒ¾Şûÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ø¼Ÿçúÿÿÿÿ
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(Çş˜™
+E
+java:S2175¢".A "ArrayList<String>" cannot contain a "char".(Çş˜™
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ”¾íûÿÿÿÿ
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ñãıüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¯›
+Z
+java:S1226•">Introduce a new variable instead of reusing the parameter "s".(ù·›Ÿúÿÿÿÿ

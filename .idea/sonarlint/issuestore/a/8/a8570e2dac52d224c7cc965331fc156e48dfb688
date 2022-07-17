@@ -1,0 +1,31 @@
+
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+L
+java:S1854"6Remove this useless assignment to local variable "sb".(í…Ò‰
+N
+java:S1854$"8Remove this useless assignment to local variable "flag".(ÜÀ‹Š
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ü˜¢êıÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Îîé8«Õ›àü/
+=
+java:S1481"'Remove this unused "sb" local variable.(í…Ò‰
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Á«²ûÿÿÿÿ
+D
+java:S1481#")Remove this unused "flag" local variable.(Â¨î¯ûÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(ŠØşş
+V	java:S1254"<This block of commented-out lines of code should be removed.(‰¬ôÿÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8‘ßàü/
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8’ßàü/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8’ßàü/
+o
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(×™ÖÇ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¯›
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ü˜¢êıÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Á«²ûÿÿÿÿ

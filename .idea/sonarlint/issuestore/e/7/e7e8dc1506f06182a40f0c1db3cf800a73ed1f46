@@ -1,0 +1,20 @@
+
+R
+java:S1854"5Remove this useless assignment to local variable "c".(‰¼éã8ã²ï†ô/
+P
+java:S1854"5Remove this useless assignment to local variable "p".(ÞËß­ûÿÿÿÿ
+A
+java:S1481"&Remove this unused "p" local variable.(ÞËß­ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éŸçÖýÿÿÿÿ
+C
+java:S1481"&Remove this unused "c" local variable.(‰¼éã8í²ï†ô/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ó¹ÄÞýÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(‰†ã»
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ìË¼¡øÿÿÿÿ
+O
+java:S1172/"4Remove these unused method parameters "name", "age".(˜ÆÿËûÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ô­¥
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(…ïâ·8÷²ï†ô/
+b	java:S101E"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ûø¿
+b	java:S101d"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºßË
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‰Äùùÿÿÿÿ

@@ -1,0 +1,83 @@
+
+”
+java:S1130"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ûšª¢þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÆ­Ûþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»…Ð‹þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ð€­ÿÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¬‡ŒÅ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(É‹Üþýÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ó½Ë‡ùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Š³úï
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ô—•Ë
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Æ„Ñ¤
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ùÓÓÌ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¸ëÀå
+S	java:S106."9Replace this use of System.out or System.err by a logger.(íÀÝžùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¶ð¢²þÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¹Œý
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Ôë¢
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ŒÎ¬Àÿÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ËÄ©©
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(êŽð»ýÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(÷Ìœÿýÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(õ¯§—
+`
+java:S2674M"JCheck the return value of the "read" call to see how many bytes were read.(Êûÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(‚êþç
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(„©³ ýÿÿÿÿ
+c	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÇ‘°
+‰
+java:S1130]"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(áÇ‘°
+Ž
+java:S1130]"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(áÇ‘°
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷»íŸûÿÿÿÿ
+Ž
+java:S1130i"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(÷»íŸûÿÿÿÿ
+“
+java:S1130i"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(÷»íŸûÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(“Òµ´
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(‰çéÒ
+M	java:S106q"9Replace this use of System.out or System.err by a logger.(ÛÏþy
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(¡óŠ“
+c	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ì±Û
+‰
+java:S1130y"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(€ì±Û
+Ž
+java:S1130y"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(€ì±Û
+c	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ×M
+‰
+java:S1130Š"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(Þ×M
+Ž
+java:S1130Š"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Þ×M
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(×‚ŸË
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ÇÝ¥òýÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(‡’Ö™üÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ÀÏÒ‹øÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(¨éøùÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(Åèúóþÿÿÿÿ
+[	java:S106ä"9Replace this use of System.out or System.err by a logger.(ÀŽ¤¯ùÿÿÿÿ8¾šÕþþ/
+Y	java:S125ê"<This block of commented-out lines of code should be removed.(Ïº¢8œðØþþ/
+i
+java:S1192"NDefine a constant instead of duplicating this literal "download.html" 4 times.(—ÓŒüÿÿÿÿ
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ——ƒûÿÿÿÿ
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÝÞ‰
+f	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üí“T
+n
+java:S1104Ù"RMake socket a static final constant or non-public and provide accessors if needed.(È™…½úÿÿÿÿ
+j
+java:S1104Ú"NMake in a static final constant or non-public and provide accessors if needed.(ýàƒÚûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+g
+java:S2095k"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(–ÑŸœýÿÿÿÿ
+b
+java:S2095{"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¡ß°Â
+b
+java:S2095_"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¡ß°Â
+c
+java:S2095Œ"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(–ŠûÓ
+i
+java:S2095~"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(É¨¹îøÿÿÿÿ
+>
+java:S2189ª""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ

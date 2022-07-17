@@ -1,0 +1,54 @@
+
+N
+java:S1854."8Remove this useless assignment to local variable "read".(ªœ
+S
+java:S1854J"8Remove this useless assignment to local variable "read".(á–®Àüÿÿÿÿ
+M
+java:S1854["8Remove this useless assignment to local variable "read".(×ŠéW
+V
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(÷‚Êu
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¶öã
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¬ÂŒÎÿÿÿÿÿ
+`
+java:S2674)"JCheck the return value of the "skip" call to see how many bytes were read.(ã¹­ş
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(²“ÌÍ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(õ®ùùÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(áÍï©
+W
+java:S10756"ARefactor your code to get this URI from a customizable parameter.(¾¯’†
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(èÙ¤ã
+F
+java:S1481:"+Remove this unused "count1" local variable.(ŒÚ„üÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(¬ÂŒÎÿÿÿÿÿ
+W
+java:S1075D"ARefactor your code to get this URI from a customizable parameter.(á¬Êû
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(„Š³‹
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ÿÜ­„
+W
+java:S1075Q"ARefactor your code to get this URI from a customizable parameter.(£ˆ¦‡
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(éÑ÷Šøÿÿÿÿ
+P	java:S125T"<This block of commented-out lines of code should be removed.(¹À…0
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ã†å€ùÿÿÿÿ
+\
+java:S1075d"ARefactor your code to get this URI from a customizable parameter.(¥Œ¢Öıÿÿÿÿ
+W
+java:S1075j"ARefactor your code to get this URI from a customizable parameter.(­¤¬
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(€âİÓûÿÿÿÿ
+w
+java:S1192"bDefine a constant instead of duplicating this literal "C:\\Users\\Lenovo\\Desktop\\a.aaa" 8 times.(÷‚Êu
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‚
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶öã
+^
+java:S2095D"HUse try-with-resources or close this "FileReader" in a "finally" clause.(á¬Êû
+i
+java:S2095d"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¥Œ¢Öıÿÿÿÿ
+b
+java:S2095m"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¿ÎÓ¦
+e
+java:S2095Q"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(£ˆ¦‡
+^
+java:S20956"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¾¯’†
+c
+java:S2095j"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(­¤¬

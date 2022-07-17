@@ -1,0 +1,18 @@
+
+{
+java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñ®¦
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(íñËìþÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Å©ëÇøÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÕÔŸüÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ÒÅª²ÿÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ÍŸìÞ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Çþ˜™
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ÖßäŸüÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(üýã
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¯›

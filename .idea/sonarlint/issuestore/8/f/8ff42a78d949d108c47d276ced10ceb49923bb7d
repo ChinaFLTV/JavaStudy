@@ -1,0 +1,80 @@
+
+D
+java:S3740*"/Provide the parametrized type for this generic.(¶™±p
+J
+java:S3740d"/Provide the parametrized type for this generic.(Üè»½ùÿÿÿÿ
+J
+java:S3740f"/Provide the parametrized type for this generic.(íßç”üÿÿÿÿ
+J
+java:S3740i"/Provide the parametrized type for this generic.(˜ˆ±Áûÿÿÿÿ
+F
+java:S3740–"/Provide the parametrized type for this generic.(²•ÇÊ
+Q
+java:S1854H"6Remove this useless assignment to local variable "l3".(Œ‰ÓÉøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šôÈû
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(÷œïÏ
+Q	java:S125""<This block of commented-out lines of code should be removed.(ÿşáÇ
+\
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(¹ıøÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¹ıøÿÿÿÿ
+U
+java:S2479%":Remove the non-escaped \u3000 character from this literal.(¹ıøÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¶É¸ñûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(õ„†¼
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ù ÷Àûÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¶³à•úÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ãğê´ıÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(´ûÀêùÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(¢£µˆ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(·¿¡¸øÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(×¶‘—üÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(÷˜Ëÿÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(«”ˆ²şÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(éŸçÖıÿÿÿÿ
+Q	java:S125F"<This block of commented-out lines of code should be removed.(¿Î•
+B
+java:S1481H"'Remove this unused "l3" local variable.(Œ‰ÓÉøÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(’Òéµ
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(ºîô|
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(Íùúüøÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÿßÓÃúÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(Ñéá§ùÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ÎÔÓ£üÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(êıåÅ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ç’¤™
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(·¹ÿÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(Ô’ú×
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ĞØÄÜúÿÿÿÿ
+N	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(È½ù-
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(Å¼Ìıÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÀÓ·ä
+T	java:S106"9Replace this use of System.out or System.err by a logger.(šÉ«Àüÿÿÿÿ
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(ÃñÉàşÿÿÿÿ8ªğıù/
+8
+java:S1116³"Remove this empty statement.(Åñ­õşÿÿÿÿ
+E
+java:S2093S"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òëßôøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëùìä
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ô‡«ÿÿÿÿÿ
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ‰ÓÉøÿÿÿÿ
+b
+java:S1192+"GDefine a constant instead of duplicating this literal "heihei" 4 times.(è€é¦ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¯›
+c
+java:S2095|"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(üîéÕşÿÿÿÿ
+d
+java:S2095’"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÄÔ„¦ùÿÿÿÿ
+^
+java:S2095v"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(æ¬¬¦
+c
+java:S2095U"HUse try-with-resources or close this "FileReader" in a "finally" clause.(âúó»ıÿÿÿÿ
+c
+java:S2095\"HUse try-with-resources or close this "FileReader" in a "finally" clause.(û¸™‚ùÿÿÿÿ
+^
+java:S2095•"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¿»âu

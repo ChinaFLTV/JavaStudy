@@ -1,0 +1,91 @@
+
+S
+java:S1854e"8Remove this useless assignment to local variable "read".(¡á˜Üÿÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÜêŠúÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(·¥æ
+W
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(¼ô†
+\
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(­²¾­ıÿÿÿÿ
+\
+java:S1075-"ARefactor your code to get this URI from a customizable parameter.(·ÀæÍÿÿÿÿÿ
+W
+java:S10752"ARefactor your code to get this URI from a customizable parameter.(ÎºÒ
+\
+java:S10754"ARefactor your code to get this URI from a customizable parameter.(ñ…¶¬øÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(Ò†¹¨ÿÿÿÿÿ
+\	java:S899;"BDo something with the "boolean" value returned by "createNewFile".(„øÄ¥ûÿÿÿÿ
+\
+java:S1075L"ARefactor your code to get this URI from a customizable parameter.(ôà…şÿÿÿÿ
+\
+java:S1075O"ARefactor your code to get this URI from a customizable parameter.(Ïà¿Êüÿÿÿÿ
+W
+java:S1075U"ARefactor your code to get this URI from a customizable parameter.(œß–¼
+A
+java:S1905Y"&Remove this unnecessary cast to "int".(ïßÖ†şÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(í¯»
+A
+java:S1905n"&Remove this unnecessary cast to "int".(Ëê¸Šıÿÿÿÿ
+\
+java:S1075r"ARefactor your code to get this URI from a customizable parameter.(î£Èùüÿÿÿÿ
+\
+java:S1075y"ARefactor your code to get this URI from a customizable parameter.(ø¸Âüÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ğÛÎ¡şÿÿÿÿ
+]
+java:S1075€"ARefactor your code to get this URI from a customizable parameter.(Ïš¥äıÿÿÿÿ
+]
+java:S1075‹"ARefactor your code to get this URI from a customizable parameter.(¢“ßüøÿÿÿÿ
+X
+java:S1075Œ"ARefactor your code to get this URI from a customizable parameter.(Êğ•
+X
+java:S1075—"ARefactor your code to get this URI from a customizable parameter.(‘Š™²
+]
+java:S1075˜"ARefactor your code to get this URI from a customizable parameter.(üƒŒòøÿÿÿÿ
+]
+java:S1075™"ARefactor your code to get this URI from a customizable parameter.(²î“ãşÿÿÿÿ
+]
+java:S1075š"ARefactor your code to get this URI from a customizable parameter.(¹’ïüÿÿÿÿ
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(‚ö€Š8ÏÂıÿû/
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(‹öÖ¾ÿÿÿÿÿ
+
+java:S1192"iDefine a constant instead of duplicating this literal "C:\\Users\\Lenovo\\Desktop\\img_copy.jpg" 6 times.(·¥æ
+}
+java:S1192"bDefine a constant instead of duplicating this literal "C:\\Users\\Lenovo\\Desktop\\a.aaa" 7 times.(ğÛÎ¡şÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‚åÿÿÿÿÿ
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·´—¨
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‚
+g
+java:S2095?"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(÷Ä×Œ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÜêŠúÿÿÿÿ
+g
+java:S2095O"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ïà¿Êüÿÿÿÿ
+h
+java:S2095€"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ïš¥äıÿÿÿÿ
+n
+java:S2095˜"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(üƒŒòøÿÿÿÿ
+g
+java:S2095r"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(î£Èùüÿÿÿÿ
+c
+java:S2095Œ"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Êğ•
+g
+java:S2095-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(·ÀæÍÿÿÿÿÿ
+c
+java:S2095 "MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼ô†
+h
+java:S2095—"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(‘Š™²
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ğÛÎ¡şÿÿÿÿ
+h
+java:S2095‹"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¢“ßüøÿÿÿÿ
+n
+java:S2095™"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(²î“ãşÿÿÿÿ
+i
+java:S2095y"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ø¸Âüÿÿÿÿ
+h
+java:S2095L"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ôà…şÿÿÿÿ
+n
+java:S2095š"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(¹’ïüÿÿÿÿ

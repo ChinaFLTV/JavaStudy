@@ -1,0 +1,46 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(•œ‰êûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Üø†îıÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(˜îb
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(‚Éï”úÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ˆûğŸ
+7
+java:S1116R"Remove this empty statement.(Åñ­õşÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(òèşòùÿÿÿÿ
+c	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×Û
+P
+java:S1118n":Add a private constructor to hide the implicit public one.(ØÍ°™
+3
+java:S2119r"Save and re-use this "Random".(¼İÅf
+<
+java:S1905s"&Remove this unnecessary cast to "int".(íÅÑ‰
+V	java:S125x"<This block of commented-out lines of code should be removed.(ø’—¯øÿÿÿÿ
+Q
+java:S1161‰":Add the "@Override" annotation above this method signature(“–ış
+W	java:S125‡"<This block of commented-out lines of code should be removed.(ˆÜûüÿÿÿÿ
+R	java:S125‹"<This block of commented-out lines of code should be removed.(´Á˜
+R	java:S125"<This block of commented-out lines of code should be removed.(›ºÂ’
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ïıi
+W	java:S125"<This block of commented-out lines of code should be removed.(Ü˜ûøÿÿÿÿ
+?
+java:S2140˜")Use "java.util.Random.nextInt()" instead.(ïıi
+Y
+java:S1128"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî
+t
+java:S1488{"^Immediately return this expression instead of assigning it to the temporary variable "object".(ÄåÄõ
+m
+java:S1104L"RMake number a static final constant or non-public and provide accessors if needed.( ë¾©ùÿÿÿÿ
+g
+java:S1104M"QMake state a static final constant or non-public and provide accessors if needed.(“Î°¹
+h
+java:S1104N"RMake scores a static final constant or non-public and provide accessors if needed.(™ù­Æ
+m
+java:S1104†"VMake tempRandom a static final constant or non-public and provide accessors if needed.(¶üÙ¾
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥íÓ­
+b	java:S101J"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§Øüú
+b	java:S101n"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ØÍ°™
+c	java:S101„"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥È
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œí·„
+b
+java:S1223p"LRename this method to prevent any misunderstanding or make it a constructor.(Ñ ¾ñ

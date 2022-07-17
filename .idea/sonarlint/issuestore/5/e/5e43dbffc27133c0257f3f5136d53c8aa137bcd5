@@ -1,0 +1,54 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "sdf".(²ƒ±íþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÝßÅŒýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šËÆ‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÊØÏ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾ŽÔ¨ùÿÿÿÿ
+C
+java:S1481"(Remove this unused "sdf" local variable.(²ƒ±íþÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Àùò–
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¹Ä’ë
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Á™Òµ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¦ëüçøÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(òÖ“øÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÀÌø
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(üéê
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÛÃƒ„
+N	java:S106."9Replace this use of System.out or System.err by a logger.(µÏ§Ö
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(‹›’Äùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¥Ž³ëúÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(èÙªóøÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ŠÄÀ·
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(üéê
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(üéê
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(êŽð»ýÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ÍúÀªÿÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(þ­»
+V	java:S125>"<This block of commented-out lines of code should be removed.(Š²˜èúÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(àŸÉùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ÔìˆÈ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¬­É
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(×‘ÿŸþÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(µ‹Ç
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Åö˜€þÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¬›ï¯üÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(˜Å¢Æûÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÀúÖ¼
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(š˜‰
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ò„îá
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(øûê–
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(½ ·õùÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Å»ÒÕ
+H
+java:S2201R"-The return value of "plusYears" must be used.(¥ùš¦ÿÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(Ú½ïð
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(øù–µ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(³•â°úÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(Â…òàÿÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(›¾–¡
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(‹´×ˆ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(÷ö€Ò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÞóÞôüÿÿÿÿ

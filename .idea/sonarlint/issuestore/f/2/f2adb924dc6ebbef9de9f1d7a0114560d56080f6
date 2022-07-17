@@ -1,0 +1,53 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(×µ²ÿıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬â¡œüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í¨µ¯ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ïŠªøÿÿÿÿ
+l	java:S116."RRename this field "English" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚åÛ¦ùÿÿÿÿ
+7
+java:S11163"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Z
+java:S3358R"DExtract this nested ternary operation into an independent statement.(¾˜±Ú
+Z
+java:S3358R"DExtract this nested ternary operation into an independent statement.(¾˜±Ú
+_
+java:S3358X"DExtract this nested ternary operation into an independent statement.(í¾òıÿÿÿÿ
+_
+java:S3358X"DExtract this nested ternary operation into an independent statement.(í¾òıÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ƒğ„
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(®Â¡Óøÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ÛŒ‹İıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Øıš’ùÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(¼Îâšÿÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(ÍÙ‹Ê
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(¢İ‡†
+8
+java:S1116½"Remove this empty statement.(Åñ­õşÿÿÿÿ
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(ÈÉ¼¯ıÿÿÿÿ
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Âœ 
+f
+java:S1104$"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104%"OMake sex a static final constant or non-public and provide accessors if needed.(µ¢Éî
+e
+java:S1104&"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+m
+java:S1104,"RMake number a static final constant or non-public and provide accessors if needed.(ûõì´üÿÿÿÿ
+f
+java:S1104-"PMake math a static final constant or non-public and provide accessors if needed.(ÓÒœ¼
+n
+java:S1104."SMake English a static final constant or non-public and provide accessors if needed.(‚åÛ¦ùÿÿÿÿ
+o
+java:S1104/"TMake computer a static final constant or non-public and provide accessors if needed.(’ÈŸ…ıÿÿÿÿ
+j
+java:S1104h"OMake sex a static final constant or non-public and provide accessors if needed.(º‹¾ªşÿÿÿÿ
+m
+java:S1104i"RMake salary a static final constant or non-public and provide accessors if needed.(¼¦İûÿÿÿÿ
+k
+java:S1104"TMake yearsOld a static final constant or non-public and provide accessors if needed.(ßİß»
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯à™»ıÿÿÿÿ
+X
+java:S2184L"BCast one of the operands of this division operation to a "double".(ğÔé
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‰Äùùÿÿÿÿ

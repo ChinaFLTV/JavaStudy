@@ -1,0 +1,127 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Þ†ù´ýÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(›ÏöÒ
+E
+java:S3740*"/Provide the parametrized type for this generic.(µ¯­“
+E
+java:S37405"/Provide the parametrized type for this generic.(Ž’é®
+J
+java:S37407"/Provide the parametrized type for this generic.(úÝ»ùÿÿÿÿ
+D
+java:S37409"/Provide the parametrized type for this generic.(„œÇ
+J
+java:S3740D"/Provide the parametrized type for this generic.(º¡þÿÿÿÿ
+J
+java:S3740H"/Provide the parametrized type for this generic.(Ò•¬Šúÿÿÿÿ
+J
+java:S3740L"/Provide the parametrized type for this generic.(ê©Šýÿÿÿÿ
+J
+java:S3740]"/Provide the parametrized type for this generic.(Ñ«¡ùÿÿÿÿ
+E
+java:S3740_"/Provide the parametrized type for this generic.(âö÷
+J
+java:S3740a"/Provide the parametrized type for this generic.(…áªøÿÿÿÿ
+J
+java:S3740c"/Provide the parametrized type for this generic.(…‘‚öùÿÿÿÿ
+E
+java:S3740g"/Provide the parametrized type for this generic.(¼úî¥
+M
+java:S1854>"7Remove this useless assignment to local variable "cl1".(â“ÛÛ
+Q
+java:S1854x"6Remove this useless assignment to local variable "in".(ŠÐ¸‰øÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®º„†øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ê‰¬ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öÚ­Ã
+G
+java:S3011#",This accessibility bypass should be removed.(‹²é„úÿÿÿÿ
+G
+java:S3011%",This accessibility bypass should be removed.(‹í©Õøÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Æ‡ŸÑ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(ó¥Êý
+G
+java:S3011.",This accessibility bypass should be removed.(è—ôªùÿÿÿÿ
+B
+java:S30110",This accessibility bypass should be removed.(á“åû
+G
+java:S30112",This accessibility bypass should be removed.(ÆÝÐÎûÿÿÿÿ
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(ïõõ	
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(’ ùÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(÷´÷‚úÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(È¦Õ¤
+`
+java:S2133<"JRemove this object instantiation and use "ReflectionReview.class" instead.(ðøÖÐ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Äšöõ
+>
+java:S1481>"(Remove this unused "cl1" local variable.(â“ÛÛ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(Ä´ Ì
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¥Ü‡Î
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ƒ—é
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ÛËÑ…ýÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(ùØÇá
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(·¾›ÿÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ÝÉÛ“ùÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(ä˜ÁÂ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(¡÷ƒ øÿÿÿÿ
+M	java:S106h"9Replace this use of System.out or System.err by a logger.(Ñ½Åx
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(æþÌúÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(Ü¾Ÿ•
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(òã©û
+M	java:S106q"9Replace this use of System.out or System.err by a logger.(ÖÝ¸C
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(»ý†šùÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(÷íî¿úÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(±Ä´üÿÿÿÿ
+B
+java:S1481x"'Remove this unused "in" local variable.(ŠÐ¸‰øÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(Œ¾Ëùÿÿÿÿ
+u	java:S115²"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€¢“Œþÿÿÿÿ
+p	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(º ¡
+u	java:S115´"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ð¦œ…øÿÿÿÿ
+u	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²îÀöüÿÿÿÿ
+O	java:S106É"9Replace this use of System.out or System.err by a logger.(î‰«¡
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(à¾Ÿèýÿÿÿÿ
+•
+java:S1130Ô"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(³«°Ñûÿÿÿÿ
+ˆ
+java:S1130Ô"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(³«°Ñûÿÿÿÿ
+•
+java:S1130Ô"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(³«°Ñûÿÿÿÿ
+O
+java:S1172Ô"3Remove these unused method parameters "str", "dou".(³«°Ñûÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ÙÌáÐÿÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+8
+java:S1116î"Remove this empty statement.(Åñ­õþÿÿÿÿ
+8
+java:S1116†"Remove this empty statement.(Åñ­õþÿÿÿÿ
+8
+java:S1116‘"Remove this empty statement.(Åñ­õþÿÿÿÿ
+B
+java:S1068Â"+Remove this unused "fakeStr" private field.(êöè
+B
+java:S1068Ä"+Remove this unused "balance" private field.(µ ó
+D
+java:S1144Í"(Remove this unused private "eat" method.(‹ñ½»ùÿÿÿÿ
+I
+java:S1144Ô"-Remove this unused private "fakeFunc" method.(³«°Ñûÿÿÿÿ
+E
+java:S1144Ü".Remove this unused private "fakeFunc2" method.(À’é
+G
+java:S1144ø"0Remove this unused private "Person" constructor.(¡¢‚Ú
+u
+java:S1488×"YImmediately return this expression instead of assigning it to the temporary variable "l".(“ÜÈ‚þÿÿÿÿ
+g
+java:S1104½"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+f
+java:S1104¾"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+n
+java:S1104¿"RMake number a static final constant or non-public and provide accessors if needed.(ûõì´üÿÿÿÿ
+s
+java:S1104Á"WMake fakeGeneric a static final constant or non-public and provide accessors if needed.(šåÌùÿÿÿÿ
+T
+java:S4977Ü"=Rename "T" which hides a type parameter from the outer scope.(À’é
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­÷›

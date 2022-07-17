@@ -1,0 +1,34 @@
+
+[	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Ü¡è
+“
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ŞÒ‡ãüÿÿÿÿ
+W
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(ØéÍÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì²âæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éŸçÖıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(İ£ît
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ì¥•Úúÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(óÚÒ¢
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(‘Æî§üÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(‚¬«íøÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Üıê±
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(á°˜³
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Â«˜şÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(íš ïşÿÿÿÿ
+7
+java:S1116}"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Q
+java:S2209²"5Change this instance-reference to a static reference.(«ÎöÒüÿÿÿÿ
+=
+java:S1165¼"!Make this "idnumber" field final.(¶ğ‰½ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òŠºùÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Úõ“ñùÿÿÿÿ
+d
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çœ¬å
+k
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ

@@ -1,0 +1,50 @@
+
+“
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(À…ýóþÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(ÁÐ‡?
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ö¨‹èÿÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ÿ·Èåùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(Ùº¶•þÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(Äí«þÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(£ƒ£å
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(œÐàõùÿÿÿÿ
+N	java:S106¶"9Replace this use of System.out or System.err by a logger.(Ý£ît
+Q	java:S125a"<This block of commented-out lines of code should be removed.(½‘Ñ³
+V	java:S125j"<This block of commented-out lines of code should be removed.(¶Ôü¢ûÿÿÿÿ
+P	java:S125y"<This block of commented-out lines of code should be removed.(ä›ª
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ñøƒ·úÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Æ÷¢§üÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(´Äš©üÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(‡äÇÜøÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(ÿ•ƒ˜ýÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(‚ÕÈøÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(ê°Ì•
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(ý£¬ûÿÿÿÿ
+”
+java:S1130Ï"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÔàÍÎüÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ËÞ¶Ëùÿÿÿÿ
+p	java:S115ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ø‚Ã€
+Z
+java:S2166á"CRename this class to remove "Exception" or correct its inheritance.(Í‚¹
+R	java:S125ã"<This block of commented-out lines of code should be removed.(Þ¥ú 
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œÐàõùÿÿÿÿ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(€ßãð
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(¡æ—î
+u	java:S115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£Ã‘ïûÿÿÿÿ
+=
+java:S1165 "!Make this "idnumber" field final.(¶ð‰½ûÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'java.util.ResourceBundle'.(ýÆ£¯øÿÿÿÿ
+€
+java:S11928"eDefine a constant instead of duplicating this literal "C:\\Users\\Lenovo\\Desktop\\test.txt" 3 times.(†ªú´þÿÿÿÿ
+q
+java:S1488ö"ZImmediately throw this expression instead of assigning it to the temporary variable "iae".(æÙ‹Ä
+_
+java:S3518ý"CMake sure this expression can't be zero before doing this division.(¼œÀÓùÿÿÿÿ
+h
+java:S20958"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†ªú´þÿÿÿÿ
+d
+java:S2095Ò"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(²®ÕÝ

@@ -1,0 +1,105 @@
+
+L
+java:S1854&"6Remove this useless assignment to local variable "p1".(¶ÊÃ
+6
+java:S2129" Remove this "String" constructor(€Ä”
+6
+java:S2129" Remove this "String" constructor(¨Üà÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì’ƒŠ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿóüêşÿÿÿÿ
+;
+java:S2129 " Remove this "String" constructor(ÿóüêşÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¬è¬üşÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(÷ı¯e
+=
+java:S1481&"'Remove this unused "p1" local variable.(¶ÊÃ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ø”ìûÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(–Ã‡
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ŒÏáŒûÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ßÿ‡§
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(©ƒÌ®øÿÿÿÿ
+6
+java:S21297" Remove this "String" constructor(ñ÷—õ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(¬Í«ùÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(İ£ît
+5
+java:S2129@" Remove this "String" constructor(šöÛ_
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ş‹˜üÿÿÿÿ
+K
+java:S1854L"5Remove this useless assignment to local variable "c".(ı£­±
+R
+java:S1854K"7Remove this useless assignment to local variable "str".(Ú£ı´ÿÿÿÿÿ
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üüş›ùÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(Öğğæ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(§°³±øÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ÏÑñœşÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ÏÑñœşÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¦ÃËùÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ãÓ‚Ú
+M	java:S106Y"9Replace this use of System.out or System.err by a logger.(Š˜Æ^
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ƒìÖœûÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(¨ø§Ù
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(…–’²úÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ô„¼Á
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ğ—–øÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Ò„°£
+N	java:S106`"9Replace this use of System.out or System.err by a logger.( ô˜ˆ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ÌúãÓùÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(»Áæÿÿÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(Ó”Ø–
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(¶şøÓşÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÃÎÉù
+M	java:S106g"9Replace this use of System.out or System.err by a logger.(’·¤6
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(Õ¤Ö®ùÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(–£²Ã
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(›ÎÅ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(ÿÿ÷û
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(¦ú³ğ
+O
+java:S4719l"9Replace charset name argument with StandardCharsets.UTF_8(¦ú³ğ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(¬İ‘şÿÿÿÿÿ
+T
+java:S4719m"9Replace charset name argument with StandardCharsets.UTF_8(¬İ‘şÿÿÿÿÿ
+h	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šá÷ÿıÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(Êà××ùÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(§ÿş
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+d	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒœ„¿
+d	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êåÓİ
+d	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê„ò
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+c
+java:S1192%"MDefine a constant instead of duplicating this literal "Taylor Swift" 3 times.(üÅÁ¯
+f
+java:S1192"KDefine a constant instead of duplicating this literal "miraculous" 4 times.(”ş·ßúÿÿÿÿ
+b
+java:S1192h"GDefine a constant instead of duplicating this literal "abcabc" 3 times.(Õ¤Ö®ùÿÿÿÿ
+c
+java:S1192a"HDefine a constant instead of duplicating this literal "abcdefg" 5 times.(ÌúãÓùÿÿÿÿ
+2
+java:S16431"Use a StringBuilder instead.(Ã×¾
+7
+java:S1643:"Use a StringBuilder instead.(«úùÂıÿÿÿÿ
+g
+java:S1104Ò"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÄ‡ê
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ì’ƒŠ
+W
+java:S4973""<Strings and Boxed types should be compared using "equals()".(«ç¤Âÿÿÿÿÿ
+Q
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(÷ı¯e
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞóŞôüÿÿÿÿ
+[
+java:S1226K"@Introduce a new variable instead of reusing the parameter "str".(Ú£ı´ÿÿÿÿÿ
+T
+java:S1226L">Introduce a new variable instead of reusing the parameter "c".(ı£­±

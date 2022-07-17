@@ -1,0 +1,26 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¿¥çâûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Æ¨³¹
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(å‘Ÿş
+—
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›Û²
+7
+java:S11165"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116:"Remove this empty statement.(Åñ­õşÿÿÿÿ
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(‚¾Ø/
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ÔËÂ¦
+7
+java:S1116["Remove this empty statement.(Åñ­õşÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(šâ½üÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(¯Öã”úÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(úí¬Ç
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‘ˆw
+f
+java:S1104W"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+g	java:S101/"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼‘ÄĞûÿÿÿÿ
+b	java:S101U"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìŞƒ‘
+g	java:S101s"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ê˜‘¯ÿÿÿÿÿ
+W
+java:S4973m"<Strings and Boxed types should be compared using "equals()".(¦©·úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œí·„

@@ -1,0 +1,39 @@
+
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116L"Remove this empty statement.(Åñ­õşÿÿÿÿ
+œ
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÁ“ùüÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(ğÁ—
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(…ü¸—øÿÿÿÿ
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(Ş‹Æ´
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(‘™“Ëûÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(¨øôÈøÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(ë¬°İûÿÿÿÿ
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(·ÌÆ°
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(ŸÆ¥Õúÿÿÿÿ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(Ä›³
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¹Å–¤ûÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(œÿà¤øÿÿÿÿ
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(³—Õèüÿÿÿÿ
+o
+java:S1192ª"SDefine a constant instead of duplicating this literal "The student named " 4 times.(ë¬°İûÿÿÿÿ
+d
+java:S1192ª"HDefine a constant instead of duplicating this literal "\tage: " 4 times.(ë¬°İûÿÿÿÿ
+g
+java:S1192ª"KDefine a constant instead of duplicating this literal "\tschool: " 4 times.(ë¬°İûÿÿÿÿ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÕ¦ïÿÿÿÿÿ
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æ“¯
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÈÙ±úÿÿÿÿ
+f
+java:S1104E"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104F"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+h
+java:S1104G"RMake school a static final constant or non-public and provide accessors if needed.(°Ôàµ
+l
+java:S1104H"QMake major a static final constant or non-public and provide accessors if needed.(–Ã¢ıÿÿÿÿ
+g	java:S101C"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚¤±®ıÿÿÿÿ
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ‹õ†ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œí·„

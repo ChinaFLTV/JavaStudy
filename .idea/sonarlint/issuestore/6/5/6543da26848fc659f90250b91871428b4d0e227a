@@ -1,0 +1,188 @@
+
+E
+java:S3740Z"/Provide the parametrized type for this generic.(íÒ«
+E
+java:S3740Z"/Provide the parametrized type for this generic.(íÒ«
+{
+java:S1149Z"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+R
+java:S1854"7Remove this useless assignment to local variable "l_1".(¶¶Ş†üÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "d_1".(™ÈûÀşÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "i_2".(ãÒÈşÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "f".(¨ıšÜ
+P
+java:S1854"5Remove this useless assignment to local variable "b".(ó¿‚°úÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "i_1".(ş›¬
+P
+java:S1854"5Remove this useless assignment to local variable "d".(ø’ùÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "B".(¼…¹¥úÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "C_1".(µîâùÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "C".(†àÊœÿÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "F".(­³ïıÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "L_1".(Ú¾Ú‘üÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "L".(³úî
+P
+java:S1854"5Remove this useless assignment to local variable "I".(Õ‚ë¯ûÿÿÿÿ
+R
+java:S1854S"7Remove this useless assignment to local variable "i_3".(Åä€Äúÿÿÿÿ
+R
+java:S1854P"7Remove this useless assignment to local variable "f_1".(¢­“İúÿÿÿÿ
+M
+java:S1854N"7Remove this useless assignment to local variable "b_2".(øÁá‘
+R
+java:S1854L"7Remove this useless assignment to local variable "I_9".(Å¿Å’ùÿÿÿÿ
+P
+java:S1854J"5Remove this useless assignment to local variable "s".(ëóìòûÿÿÿÿ
+R
+java:S1854H"7Remove this useless assignment to local variable "I_8".(ø®©¾üÿÿÿÿ
+<
+java:S2129"!Remove this "Integer" constructor(Õ‚ë¯ûÿÿÿÿ
+A
+java:S1481"&Remove this unused "I" local variable.(Õ‚ë¯ûÿÿÿÿ
+4
+java:S2129"Remove this "Long" constructor(³úî
+<
+java:S1481"&Remove this unused "L" local variable.(³úî
+9
+java:S2129"Remove this "Long" constructor(Ú¾Ú‘üÿÿÿÿ
+C
+java:S1481"(Remove this unused "L_1" local variable.(Ú¾Ú‘üÿÿÿÿ
+A
+java:S1481"&Remove this unused "F" local variable.(­³ïıÿÿÿÿ
+>
+java:S2129"#Remove this "Character" constructor(†àÊœÿÿÿÿÿ
+A
+java:S1481"&Remove this unused "C" local variable.(†àÊœÿÿÿÿÿ
+>
+java:S2129"#Remove this "Character" constructor(µîâùÿÿÿÿ
+C
+java:S1481"(Remove this unused "C_1" local variable.(µîâùÿÿÿÿ
+A
+java:S1481"&Remove this unused "B" local variable.(¼…¹¥úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö–ëÚ
+A
+java:S1481"&Remove this unused "d" local variable.(ø’ùÿÿÿÿ
+>
+java:S1481"(Remove this unused "i_1" local variable.(ş›¬
+A
+java:S1481"&Remove this unused "b" local variable.(ó¿‚°úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‘í ¯ûÿÿÿÿ
+<
+java:S1481"&Remove this unused "f" local variable.(¨ıšÜ
+T
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ãÒÈşÿÿÿÿ
+C
+java:S1481"(Remove this unused "i_2" local variable.(ãÒÈşÿÿÿÿ
+Y
+java:S2130">Use "Double.parseDouble" for this string-to-double conversion.(™ÈûÀşÿÿÿÿ
+C
+java:S1481"(Remove this unused "d_1" local variable.(™ÈûÀşÿÿÿÿ
+7
+java:S2153"Remove the boxing to "Long".(¶¶Ş†üÿÿÿÿ
+C
+java:S1481"(Remove this unused "l_1" local variable.(¶¶Ş†üÿÿÿÿ
+\
+java:S2130 "AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(üÜ„Ëüÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(»ˆÖèúÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(åáâŒûÿÿÿÿ
+F
+java:S2154%"0Add an explicit cast to match types of operands.(âÚ­ƒ
+7
+java:S2129%"!Remove this "Integer" constructor(âÚ­ƒ
+6
+java:S2129%" Remove this "Double" constructor(âÚ­ƒ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(÷ÁÚ©
+7
+java:S2129+"!Remove this "Integer" constructor(úÉ‡ÿ
+;
+java:S2129/" Remove this "Double" constructor(õ¦ºÔùÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ü³îÆ
+<
+java:S21295"!Remove this "Integer" constructor(„‹­ôşÿÿÿÿ
+7
+java:S21296"!Remove this "Integer" constructor(¾Ë±æ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ìÙ½¦
+N	java:S106="9Replace this use of System.out or System.err by a logger.(àûŸ©
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ùÑÓĞ
+<
+java:S2129D"!Remove this "Integer" constructor(ë‘æ»úÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(µèüäıÿÿÿÿ
+C
+java:S1481H"(Remove this unused "I_8" local variable.(ø®©¾üÿÿÿÿ
+A
+java:S1481J"&Remove this unused "s" local variable.(ëóìòûÿÿÿÿ
+C
+java:S1481L"(Remove this unused "I_9" local variable.(Å¿Å’ùÿÿÿÿ
+>
+java:S1481N"(Remove this unused "b_2" local variable.(øÁá‘
+C
+java:S1481P"(Remove this unused "f_1" local variable.(¢­“İúÿÿÿÿ
+<
+java:S2129R"!Remove this "Integer" constructor(¦­Â­úÿÿÿÿ
+C
+java:S1481S"(Remove this unused "i_3" local variable.(Åä€Äúÿÿÿÿ
+7
+java:S2129T"!Remove this "Boolean" constructor(ÖŒà¥
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(£åÚÊ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ÁÑ²
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ïé–·ùÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(«œêë
+Q	java:S125^"<This block of commented-out lines of code should be removed.(Ïüù¤
+6
+java:S2129i" Remove this "Double" constructor(®ƒıš
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(µ•Ú
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ğ³ç®ÿÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(óé¢Äøÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(õ—óƒÿÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(°°ò
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ò°çòüÿÿÿÿ
+|
+java:S1192‚"`Define a constant instead of duplicating this literal "The current student's score is " 4 times.(óé¢Äøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‚ë¯ûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³úî
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¾Ú‘üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­³ïıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†àÊœÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µîâùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼…¹¥úÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯€ë
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş›¬
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÒÈşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÈûÀşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¶Ş†üÿÿÿÿ
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÜ„Ëüÿÿÿÿ
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÚ­ƒ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Â‰Â
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‹­ôşÿÿÿÿ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ë±æ
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­µ”ûÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Û÷ß
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»øì‚ÿÿÿÿÿ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”•ò¡şÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‘æ»úÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø®©¾üÿÿÿÿ
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¿Å’ùÿÿÿÿ
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁá‘
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢­“İúÿÿÿÿ
+k	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦­Â­úÿÿÿÿ
+k	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åä€Äúÿÿÿÿ
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŒà¥
+k	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹îÑÙşÿÿÿÿ
+f	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ƒıš
+R
+java:S49738"<Strings and Boxed types should be compared using "equals()".(ìÙ½¦
+R
+java:S4973="<Strings and Boxed types should be compared using "equals()".(àûŸ©
+R
+java:S4973B"<Strings and Boxed types should be compared using "equals()".(ùÑÓĞ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‰Äùùÿÿÿÿ

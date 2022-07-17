@@ -1,0 +1,15 @@
+
+Q
+java:S1854	";Remove this useless assignment to local variable "array_1".(éœ·™
+B
+java:S1481	",Remove this unused "array_1" local variable.(éœ·™
+V	java:S125"<This block of commented-out lines of code should be removed.(˜ú—’üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ãçüÿÿÿÿ
+E
+java:S1066"/Merge this if statement with the enclosing one.(íÛ¹é
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœ·™
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÞðµ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´û 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÀâ¿
+b
+java:S12234"LRename this method to prevent any misunderstanding or make it a constructor.(‚¸±ë

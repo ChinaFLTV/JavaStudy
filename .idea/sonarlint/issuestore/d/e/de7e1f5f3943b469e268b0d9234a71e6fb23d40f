@@ -1,0 +1,86 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+E
+java:S2093&"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+“
+java:S1130L"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(§ªˆíýÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(°Žàºÿÿÿÿÿ
+R
+java:S1854|"7Remove this useless assignment to local variable "raf".(°“™Ãýÿÿÿÿ
+Ž
+java:S1130x"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ÀßÂ€
+\
+java:S1075|"ARefactor your code to get this URI from a customizable parameter.(°“™Ãýÿÿÿÿ
+C
+java:S1481|"(Remove this unused "raf" local variable.(°“™Ãýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Æ‚•¥ûÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Ä†‚«
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ýöþâøÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(ØÍ”ùÿÿÿÿ
+d	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ê…þ
+
+java:S1130®"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(¡ê…þ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(úÜþœÿÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¤û€Ðþÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(ƒéé 
+N
+java:S1854ß"7Remove this useless assignment to local variable "dos".(á«ô®
+”
+java:S1130Ò"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(÷“”ûÿÿÿÿ
+^	java:S125Ù"<This block of commented-out lines of code should be removed.(¤û€Ðþÿÿÿÿ8ÁÙÑšþ/
+?
+java:S1481ß"(Remove this unused "dos" local variable.(á«ô®
+X
+java:S1075à"ARefactor your code to get this URI from a customizable parameter.(‘º¤Ç
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(ßÜèüùÿÿÿÿ
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(ðç—ñùÿÿÿÿ
+L
+java:S1854•"5Remove this useless assignment to local variable "c".(Ý¡Ë”
+L
+java:S1854“"5Remove this useless assignment to local variable "f".(Ö‘Æ
+T
+java:S1854›"8Remove this useless assignment to local variable "read".(ýÁ½£øÿÿÿÿ
+^	java:S125’"<This block of commented-out lines of code should be removed.(¤û€Ðþÿÿÿÿ8Ûöàšþ/
+=
+java:S1481“"&Remove this unused "f" local variable.(Ö‘Æ
+=
+java:S1481•"&Remove this unused "c" local variable.(Ý¡Ë”
+]
+java:S1075—"ARefactor your code to get this URI from a customizable parameter.(ÊøÕøÿÿÿÿ
+M
+java:S1128
+"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8°øýšþ/
+X
+java:S4973Š"<Strings and Boxed types should be compared using "equals()".(‡–ãÄøÿÿÿÿ
+S
+java:S4973ö"<Strings and Boxed types should be compared using "equals()".(¤ªäð
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+i
+java:S2095|"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(°“™Ãýÿÿÿÿ
+a
+java:S2095°"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ö‡èã
+e
+java:S2095À"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çœ¬å
+f
+java:S2095ˆ"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ƒÿ¹™ûÿÿÿÿ
+h
+java:S2095—"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÊøÕøÿÿÿÿ
+Y
+java:S2095z"DUse try-with-resources or close this "Socket" in a "finally" clause.(óÐÎ"
+e
+java:S2095S"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ï×øðýÿÿÿÿ
+Z
+java:S2095Ô"DUse try-with-resources or close this "Socket" in a "finally" clause.(èÂŸ~
+j
+java:S2095Ü"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(É¨¹îøÿÿÿÿ
+d
+java:S2095à"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(‘º¤Ç
+Z
+java:S2095("DUse try-with-resources or close this "Socket" in a "finally" clause.(Â‚ä¸
+e
+java:S2095ß"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(á«ô®
+L
+java:S2589a"7Remove this expression which always evaluates to "true"(‡½×U
+R
+java:S2589g"7Remove this expression which always evaluates to "true"(ëþÁûÿÿÿÿ

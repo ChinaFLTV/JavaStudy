@@ -1,0 +1,23 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ë½à¯
+Q	java:S125"<This block of commented-out lines of code should be removed.(§«Ï‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š‹‹Ê
+Q	java:S125"<This block of commented-out lines of code should be removed.(°ŠµÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ä„Æÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Üøâª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓšëÚıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(´Äš©üÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿ•ƒ˜ıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÔÄÖ·şÿÿÿÿ
+m
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Œ’ĞÆÿÿÿÿÿ
+r	java:S116\"XRename this field "ExceptionType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿è“‰øÿÿÿÿ
+A
+java:S1165\"&Make this "ExceptionType" field final.(¿è“‰øÿÿÿÿ
+M
+java:S1161e":Add the "@Override" annotation above this method signature(‡+
+]
+java:S2184G"BCast one of the operands of this division operation to a "double".(âÆîÌøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òŠºùÿÿÿÿ
+Z
+java:S25834"DChange this condition so that it does not always evaluate to "false"(å¹ÚÑ

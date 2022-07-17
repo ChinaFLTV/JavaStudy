@@ -1,0 +1,250 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¶…şúÿÿÿÿ
+E
+java:S3740""/Provide the parametrized type for this generic.(Ô¨ƒÚ
+E
+java:S3740."/Provide the parametrized type for this generic.(¨¥ŸË
+E
+java:S3740j"/Provide the parametrized type for this generic.(¨¢‰Â
+E
+java:S3740y"/Provide the parametrized type for this generic.(¾Íï†
+K
+java:S3740Š"/Provide the parametrized type for this generic.(»ßÆ¡ıÿÿÿÿ
+F
+java:S3740Ÿ"/Provide the parametrized type for this generic.(²ó½×
+K
+java:S3740¼"/Provide the parametrized type for this generic.(ïâ‘üşÿÿÿÿ
+K
+java:S3740ò"/Provide the parametrized type for this generic.(à‹½§ÿÿÿÿÿ
+F
+java:S3740ù"/Provide the parametrized type for this generic.(”Ó–Ù
+F
+java:S3740©"/Provide the parametrized type for this generic.(†úÏ…
+F
+java:S3740¬"/Provide the parametrized type for this generic.(Óÿ©¶
+F
+java:S3740¯"/Provide the parametrized type for this generic.(ìÀ÷¼
+F
+java:S3740á"/Provide the parametrized type for this generic.(°½¢¢
+N
+java:S1854á"7Remove this useless assignment to local variable "s18".(°½¢¢
+N
+java:S1854Ó"7Remove this useless assignment to local variable "s15".(Ä…û°
+R
+java:S1854Š"6Remove this useless assignment to local variable "s9".(»ßÆ¡ıÿÿÿÿ
+L
+java:S1854."6Remove this useless assignment to local variable "s2".(¨¥ŸË
+P
+java:S1854"5Remove this useless assignment to local variable "s".(¶…şúÿÿÿÿ
+A
+java:S1481"&Remove this unused "s" local variable.(¶…şúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¨Êùƒûÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(“Å¬ÿÿÿÿÿ
+E
+java:S1611""/Remove the parentheses around the "x" parameter(Ô¨ƒÚ
+i
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(Ô¨ƒÚ
+E
+java:S1611("/Remove the parentheses around the "x" parameter(ÁˆÍ
+B
+java:S1602(",Remove useless curly braces around statement(ÁˆÍ
+V
+java:S1612("@Replace this lambda with method reference 'System.out::println'.(ÁˆÍ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+E
+java:S1611."/Remove the parentheses around the "x" parameter(¨¥ŸË
+i
+java:S1602."SRemove useless curly braces around statement and then remove useless return keyword(¨¥ŸË
+=
+java:S1481."'Remove this unused "s2" local variable.(¨¥ŸË
+V	java:S1256"<This block of commented-out lines of code should be removed.(¶Åá›ùÿÿÿÿ
+E
+java:S1611k"/Remove the parentheses around the "x" parameter(èËØ·
+B
+java:S1602k",Remove useless curly braces around statement(èËØ·
+V
+java:S1612k"@Replace this lambda with method reference 'System.out::println'.(èËØ·
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+J
+java:S1611s"/Remove the parentheses around the "x" parameter(Ü§àóúÿÿÿÿ
+G
+java:S1602s",Remove useless curly braces around statement(Ü§àóúÿÿÿÿ
+[
+java:S1612s"@Replace this lambda with method reference 'System.out::println'.(Ü§àóúÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+E
+java:S1611y"/Remove the parentheses around the "x" parameter(¾Íï†
+i
+java:S1602y"SRemove useless curly braces around statement and then remove useless return keyword(¾Íï†
+E
+java:S1611"/Remove the parentheses around the "x" parameter(œ©ê
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(œ©ê
+K
+java:S1611ƒ"/Remove the parentheses around the "x" parameter(©”¬ìûÿÿÿÿ
+H
+java:S1602ƒ",Remove useless curly braces around statement(©”¬ìûÿÿÿÿ
+\
+java:S1612ƒ"@Replace this lambda with method reference 'System.out::println'.(©”¬ìûÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+o
+java:S1602Š"SRemove useless curly braces around statement and then remove useless return keyword(»ßÆ¡ıÿÿÿÿ
+E
+java:S2140Œ")Use "java.util.Random.nextInt()" instead.(û…¨Šûÿÿÿÿ
+C
+java:S1481Š"'Remove this unused "s9" local variable.(»ßÆ¡ıÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÍŸìŞ
+Q	java:S125‘"<This block of commented-out lines of code should be removed.(Âí‰/
+K
+java:S1611 "/Remove the parentheses around the "x" parameter(ü¹ Šüÿÿÿÿ
+o
+java:S1602 "SRemove useless curly braces around statement and then remove useless return keyword(ü¹ Šüÿÿÿÿ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(¼ğŠê
+W	java:S125±"<This block of commented-out lines of code should be removed.(®ˆÎıÿÿÿÿ
+K
+java:S1611½"/Remove the parentheses around the "x" parameter(âÑóçşÿÿÿÿ
+o
+java:S1602½"SRemove useless curly braces around statement and then remove useless return keyword(âÑóçşÿÿÿÿ
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(¼ğŠê
+K
+java:S1611É"/Remove the parentheses around the "x" parameter(úÙª„ıÿÿÿÿ
+o
+java:S1602É"SRemove useless curly braces around statement and then remove useless return keyword(úÙª„ıÿÿÿÿ
+E
+java:S2140Ë")Use "java.util.Random.nextInt()" instead.(Ç²İ¿úÿÿÿÿ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¼ğŠê
+?
+java:S1481Ó"(Remove this unused "s15" local variable.(Ä…û°
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(üÿÜ”
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(Øê¶¬úÿÿÿÿ
+Q	java:S125ß"<This block of commented-out lines of code should be removed.(‡ÕÙL
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(é¼¸×ıÿÿÿÿ
+o
+java:S1602ó"SRemove useless curly braces around statement and then remove useless return keyword(é¼¸×ıÿÿÿÿ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(‰í½·úÿÿÿÿ
+K
+java:S1611ú"/Remove the parentheses around the "x" parameter(‰í½·úÿÿÿÿ
+o
+java:S1602ú"SRemove useless curly braces around statement and then remove useless return keyword(‰í½·úÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(åÀÃ±ÿÿÿÿÿ
+K
+java:S1611€"/Remove the parentheses around the "x" parameter(åÀÃ±ÿÿÿÿÿ
+o
+java:S1602€"SRemove useless curly braces around statement and then remove useless return keyword(åÀÃ±ÿÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(ƒŒúŒùÿÿÿÿ
+K
+java:S1611‡"/Remove the parentheses around the "x" parameter(ƒŒúŒùÿÿÿÿ
+o
+java:S1602‡"SRemove useless curly braces around statement and then remove useless return keyword(ƒŒúŒùÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŠ”ë
+F
+java:S1611"/Remove the parentheses around the "x" parameter(ÙŠ”ë
+j
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÙŠ”ë
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(˜øäó
+F
+java:S1611”"/Remove the parentheses around the "x" parameter(˜øäó
+j
+java:S1602”"SRemove useless curly braces around statement and then remove useless return keyword(˜øäó
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ŸÍ—­úÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(êœõÄ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(›–Ú§ùÿÿÿÿ
+o
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(›–Ú§ùÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(×Ë†¼ûÿÿÿÿ
+o
+java:S1602£"SRemove useless curly braces around statement and then remove useless return keyword(×Ë†¼ûÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ëë¢Ø
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(©ƒÌ®øÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ
+F
+java:S1611²"/Remove the parentheses around the "x" parameter(ŞÎÊ¸
+j
+java:S1602²"SRemove useless curly braces around statement and then remove useless return keyword(ŞÎÊ¸
+S
+java:S1612²"<Replace this lambda with method reference 'int.class::cast'.(ŞÎÊ¸
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(ë½Õøùÿÿÿÿ
+K
+java:S1611º"/Remove the parentheses around the "x" parameter(Ò••Èøÿÿÿÿ
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ş«İ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(à««Ë
+F
+java:S1611Ä"/Remove the parentheses around the "x" parameter(ˆÊ°
+j
+java:S1602Ä"SRemove useless curly braces around statement and then remove useless return keyword(ˆÊ°
+S
+java:S1612Ä"<Replace this lambda with method reference 'int.class::cast'.(ˆÊ°
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ığÙ±ùÿÿÿÿ
+K
+java:S1611Ì"/Remove the parentheses around the "x" parameter(ığÙ±ùÿÿÿÿ
+o
+java:S1602Ì"SRemove useless curly braces around statement and then remove useless return keyword(ığÙ±ùÿÿÿÿ
+X
+java:S1612Ì"<Replace this lambda with method reference 'int.class::cast'.(ığÙ±ùÿÿÿÿ
+N	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ÚèÁ"
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(±§ÓÊ
+F
+java:S1611Ó"/Remove the parentheses around the "x" parameter(±§ÓÊ
+j
+java:S1602Ó"SRemove useless curly braces around statement and then remove useless return keyword(±§ÓÊ
+S
+java:S1612Ó"<Replace this lambda with method reference 'int.class::cast'.(±§ÓÊ
+?
+java:S1481á"(Remove this unused "s18" local variable.(°½¢¢
+R	java:S125ä"<This block of commented-out lines of code should be removed.(£™ßË
+N	java:S106è"9Replace this use of System.out or System.err by a logger.(Ú¦—
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(è–²Ğ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(Æ’Ş•ıÿÿÿÿ
+O	java:S106ô"9Replace this use of System.out or System.err by a logger.(şÔ…
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(í–¶•ıÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(¥†šÖ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(¬Í«ùÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(§üæ
+j
+java:S1602‚"SRemove useless curly braces around statement and then remove useless return keyword(æ¤Üä
+A
+java:S1905„"*Remove this unnecessary cast to "Mercury".(‰Àã§
+A
+java:S1905„"*Remove this unnecessary cast to "Mercury".(‰Àã§
+K
+java:S1611†"/Remove the parentheses around the "x" parameter(–Í¢Æùÿÿÿÿ
+H
+java:S1602†",Remove useless curly braces around statement(–Í¢Æùÿÿÿÿ
+\
+java:S1612†"@Replace this lambda with method reference 'System.out::println'.(–Í¢Æùÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+F
+java:S1905"*Remove this unnecessary cast to "Mercury".(¬ÙºŒøÿÿÿÿ
+F
+java:S1905"*Remove this unnecessary cast to "Mercury".(¬ÙºŒøÿÿÿÿ
+A
+java:S1905"*Remove this unnecessary cast to "Mercury".(Š«‡º
+A
+java:S1905"*Remove this unnecessary cast to "Mercury".(Š«‡º
+F
+java:S1905”"*Remove this unnecessary cast to "Mercury".(Óœ³úÿÿÿÿ
+F
+java:S1905”"*Remove this unnecessary cast to "Mercury".(Óœ³úÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(Şèïø
+O	java:S106"9Replace this use of System.out or System.err by a logger.(”·‘ï
+t
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘™ø€üÿÿÿÿ
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Àö•
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢İ‚¡
+p
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÚíÁ
+I
+java:S1121$".Extract the assignment out of this expression.(Âí‹†øÿÿÿÿ
+I
+java:S11210".Extract the assignment out of this expression.(Âí‹†øÿÿÿÿ
+D
+java:S1121{".Extract the assignment out of this expression.(Æ‚™Ç
+l
+java:S1104¬"PMake area a static final constant or non-public and provide accessors if needed.(€ê¦ƒÿÿÿÿÿ
+f
+java:S1104­"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹±¸R

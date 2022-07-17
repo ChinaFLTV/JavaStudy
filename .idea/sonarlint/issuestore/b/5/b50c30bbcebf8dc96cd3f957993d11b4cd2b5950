@@ -1,0 +1,11 @@
+
+Q	java:S125	"<This block of commented-out lines of code should be removed.(”¨â¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å©º
+;
+java:S2116"%Use "Arrays.toString(array)" instead.(å©º
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ıÃÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾ç­á
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìæ™÷
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ïÜ˜ƒşÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„à†ˆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ç£ÿÿÿÿÿ

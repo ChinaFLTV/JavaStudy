@@ -1,0 +1,95 @@
+
+J
+java:S3740p"/Provide the parametrized type for this generic.(—èÿûÿÿÿÿ
+J
+java:S3740r"/Provide the parametrized type for this generic.(ßá¦Üıÿÿÿÿ
+J
+java:S3740t"/Provide the parametrized type for this generic.(Ü‘÷¯şÿÿÿÿ
+F
+java:S3740‚"/Provide the parametrized type for this generic.(¯à¤ï
+K
+java:S1854"5Remove this useless assignment to local variable "f".(€ö î
+O
+java:S18547"9Remove this useless assignment to local variable "read1".(­ä®Ş
+L
+java:S1854A"6Remove this useless assignment to local variable "p1".(ş¯ñ
+P
+java:S1854p"5Remove this useless assignment to local variable "m".(—èÿûÿÿÿÿ
+P
+java:S1854r"5Remove this useless assignment to local variable "s".(ßá¦Üıÿÿÿÿ
+Q
+java:S1854w"6Remove this useless assignment to local variable "s3".(©êßÿÿÿÿÿ
+Q
+java:S1854z"6Remove this useless assignment to local variable "i3".(¼ÙÚ°ùÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(€ö î
+<
+java:S1481"&Remove this unused "f" local variable.(€ö î
+\
+java:S1075#"ARefactor your code to get this URI from a customizable parameter.(‰Üî”ıÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(½™ÍŞüÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒ³àÀüÿÿÿÿ
+@
+java:S14814"*Remove this unused "read1" local variable.(ÎÔë”
+\
+java:S10756"ARefactor your code to get this URI from a customizable parameter.(Õ¸Ûıÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(‚êşç
+=
+java:S1481A"'Remove this unused "p1" local variable.(ş¯ñ
+\
+java:S1075D"ARefactor your code to get this URI from a customizable parameter.(ÔüªÂøÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(ñ¤¦
+\
+java:S1075P"ARefactor your code to get this URI from a customizable parameter.(Êòñİúÿÿÿÿ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(ß²æ
+\
+java:S1075V"ARefactor your code to get this URI from a customizable parameter.(µ‡èúÿÿÿÿ
+W
+java:S1075e"ARefactor your code to get this URI from a customizable parameter.(ïŠÎÊ
+\
+java:S1075l"ARefactor your code to get this URI from a customizable parameter.(½»§üÿÿÿÿ
+A
+java:S1481p"&Remove this unused "m" local variable.(—èÿûÿÿÿÿ
+A
+java:S1481r"&Remove this unused "s" local variable.(ßá¦Üıÿÿÿÿ
+B
+java:S1481w"'Remove this unused "s3" local variable.(©êßÿÿÿÿÿ
+<
+java:S2129x"!Remove this "Integer" constructor(›Â·¡ıÿÿÿÿ
+B
+java:S1481z"'Remove this unused "i3" local variable.(¼ÙÚ°ùÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(Ş¥ˆ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(¯´Ô5
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(„¹çúÿÿÿÿ
+X
+java:S1075‹"ARefactor your code to get this URI from a customizable parameter.(·Â´Š
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(„©‹š
+R	java:S125–"<This block of commented-out lines of code should be removed.(åù¼
+W	java:S125›"<This block of commented-out lines of code should be removed.(šºƒíúÿÿÿÿ
+8
+java:S1116®"Remove this empty statement.(Åñ­õşÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+b
+java:S1192!"GDefine a constant instead of duplicating this literal "heihei" 5 times.(¦êÆûÿÿÿÿ
+€
+java:S1192D"eDefine a constant instead of duplicating this literal "C:\\Users\\Lenovo\\Desktop\\abc.hhhh" 6 times.(ÔüªÂøÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‚
+c
+java:S2095l"HUse try-with-resources or close this "FileReader" in a "finally" clause.(½»§üÿÿÿÿ
+`
+java:S2095‹"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(·Â´Š
+h
+java:S2095#"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰Üî”ıÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÅÅ÷¥úÿÿÿÿ
+^
+java:S2095e"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ïŠÎÊ
+c
+java:S2095V"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(µ‡èúÿÿÿÿ
+c
+java:S2095D"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÔüªÂøÿÿÿÿ
+h
+java:S20956"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Õ¸Ûıÿÿÿÿ
+c
+java:S2095P"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Êòñİúÿÿÿÿ

@@ -1,0 +1,22 @@
+
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(„ŒĞ¥ûÿÿÿÿ
+M	java:S106C"9Replace this use of System.out or System.err by a logger.(“ÙàV
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¸İ±ñ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(­‘ÛÄüÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(”‰‹‚şÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(½Ùê¸ûÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(³¯øœùÿÿÿÿ
+7
+java:S1116x"Remove this empty statement.(Åñ­õşÿÿÿÿ
+2
+java:S3626¿"Remove this redundant jump.(ûÁİ…
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(›ŞĞ¿
+N	java:S106¹"9Replace this use of System.out or System.err by a logger.(àƒß
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(ºÿ½øÿÿÿÿ
+N	java:S106¾"9Replace this use of System.out or System.err by a logger.(àƒß
+N	java:S106É"9Replace this use of System.out or System.err by a logger.(‡âğa
+N	java:S106Ê"9Replace this use of System.out or System.err by a logger.(àƒß
+}
+java:S1192¹"gDefine a constant instead of duplicating this literal "The balance of the current amount is: " 3 times.(àƒß
+b	java:S101:"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃÄš
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‰Äùùÿÿÿÿ

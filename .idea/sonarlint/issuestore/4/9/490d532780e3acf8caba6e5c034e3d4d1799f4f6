@@ -1,0 +1,61 @@
+
+E
+java:S3740;"/Provide the parametrized type for this generic.(ºúŸú
+E
+java:S3740@"/Provide the parametrized type for this generic.(å²œÂ
+J
+java:S3740J"/Provide the parametrized type for this generic.(˜…Æ¬üÿÿÿÿ
+N
+java:S1854("8Remove this useless assignment to local variable "func".(„Š—Ô
+J
+java:S1611"/Remove the parentheses around the "x" parameter(¦™úÁùÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(¦™úÁùÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¦™úÁùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ØáÌ—ıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(™§—ì
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ñ–ûşÿÿÿÿ
+l
+java:S4276("VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(„Š—Ô
+E
+java:S1611("/Remove the parentheses around the "x" parameter(„Š—Ô
+O
+java:S1612("9Replace this lambda with method reference 'Integer::new'.(„Š—Ô
+_
+java:S2153("IRemove the boxing to "Integer"; The argument is already of the same type.(„Š—Ô
+7
+java:S2129("!Remove this "Integer" constructor(„Š—Ô
+?
+java:S1481(")Remove this unused "func" local variable.(„Š—Ô
+t
+java:S4276)"YRefactor this code to use the more specialised Functional Interface 'DoubleUnaryOperator'(±•×¾øÿÿÿÿ
+u
+java:S4276,"ZRefactor this code to use the more specialised Functional Interface 'IntFunction<Float[]>'(Ì†»öøÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ø–Øà
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(äÔŒÖ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(äÖé˜
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(õ¡š
+A
+java:S1602K",Remove useless curly braces around statement(ììÎ
+U
+java:S1612K"@Replace this lambda with method reference 'System.out::println'.(ììÎ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(¶É¸ñûÿÿÿÿ
+G
+java:S1602V",Remove useless curly braces around statement(§£´ßùÿÿÿÿ
+[
+java:S1612V"@Replace this lambda with method reference 'System.out::println'.(§£´ßùÿÿÿÿ
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8óÔ³0
+7
+java:S1116n"Remove this empty statement.(Åñ­õşÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘™ø€üÿÿÿÿ
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(–äà°
+f
+java:S1104i"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104j"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹±¸R

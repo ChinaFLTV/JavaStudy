@@ -1,0 +1,59 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+S
+java:S1854!"8Remove this useless assignment to local variable "data".(Î”°¨şÿÿÿÿ
+U
+java:S1854 ":Remove this useless assignment to local variable "server".(¹÷©ßşÿÿÿÿ
+“
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(è§±èÿÿÿÿÿ
+F
+java:S1481 "+Remove this unused "server" local variable.(¹÷©ßşÿÿÿÿ
+D
+java:S1481!")Remove this unused "data" local variable.(Î”°¨şÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(³Ùîñ
+
+java:S11307"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ıÊŒ“
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(·¤ã£øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ÿÇÀùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(™Ê¢¦
+“
+java:S1130M"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ÔöÆ†şÿÿÿÿ
+T
+java:S4719S"9Replace charset name argument with StandardCharsets.UTF_8(šñ÷¸ıÿÿÿÿ
+
+java:S1130\"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Óß³
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(±©ÒÃşÿÿÿÿ
+O
+java:S4719h"9Replace charset name argument with StandardCharsets.UTF_8(ñÓƒö
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ïŸµüÿÿÿÿ
+
+java:S1130w"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ÌÇ–Æ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(¾Äæ×
+P
+java:S4719…"9Replace charset name argument with StandardCharsets.UTF_8(ñÓƒö
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(‚Õ¼üşÿÿÿÿ
+U
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Ä‰ÅÂúÿÿÿÿ
+”
+java:S1130˜"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(²ğÓüùÿÿÿÿ
+U
+java:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(šñ÷¸ıÿÿÿÿ
+P
+java:S4719ª"9Replace charset name argument with StandardCharsets.UTF_8(ñÓƒö
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(©ûıø
+a
+java:S1192S"FDefine a constant instead of duplicating this literal "UTF-8" 6 times.(šñ÷¸ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßç
+_
+java:S2095#"DUse try-with-resources or close this "Socket" in a "finally" clause.(Ê¡îÉüÿÿÿÿ
+`
+java:S2095š"DUse try-with-resources or close this "Socket" in a "finally" clause.(•÷Ôúÿÿÿÿ
+Y
+java:S2095O"DUse try-with-resources or close this "Socket" in a "finally" clause.(õ³Ú
+e
+java:S2095y"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¡¾ëïûÿÿÿÿ
+e
+java:S20959"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¦çÌäıÿÿÿÿ
+`
+java:S2095^"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ï¾Ì½

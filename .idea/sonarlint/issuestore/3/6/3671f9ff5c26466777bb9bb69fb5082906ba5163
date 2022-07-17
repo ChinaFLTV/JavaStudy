@@ -1,0 +1,8 @@
+
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(˜Îì†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÛÔæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Öç²ûÿÿÿÿ
+l	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿©£ƒþÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï‘Üc

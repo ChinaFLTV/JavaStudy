@@ -1,0 +1,43 @@
+
+ó
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«µÌë
+L
+java:S1854$"6Remove this useless assignment to local variable "os".(úç≈Æ
+é
+java:S1130!"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(àâ·‡
+=
+java:S1481$"'Remove this unused "os" local variable.(úç≈Æ
+V	java:S125'"<This block of commented-out lines of code should be removed.(Ìê‚Ø˘ˇˇˇˇ
+:
+java:S21530"Remove the boxing to "Integer".(∆˛Ì·¯ˇˇˇˇ
+<
+java:S21290"!Remove this "Integer" constructor(∆˛Ì·¯ˇˇˇˇ
+V	java:S125>"<This block of commented-out lines of code should be removed.(Ω—Œù˘ˇˇˇˇ
+V	java:S125@"<This block of commented-out lines of code should be removed.(‹ã∏Ç˘ˇˇˇˇ
+M
+java:S1854W"7Remove this useless assignment to local variable "dis".(Ü∞˚ı
+L
+java:S1854U"6Remove this useless assignment to local variable "is".(çë∑Í
+ì
+java:S1130O"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ºü®¡˚ˇˇˇˇ
+=
+java:S1481U"'Remove this unused "is" local variable.(çë∑Í
+W
+java:S1075W"ARefactor your code to get this URI from a customizable parameter.(Ü∞˚ı
+>
+java:S1481W"(Remove this unused "dis" local variable.(Ü∞˚ı
+V	java:S125Y"<This block of commented-out lines of code should be removed.(Ìê‚Ø˘ˇˇˇˇ
+V	java:S125_"<This block of commented-out lines of code should be removed.(îıéÖ˛ˇˇˇˇ
+9
+java:S2153d"Remove the boxing of "length".(ñœ∞ç¸ˇˇˇˇ
+<
+java:S2129d"!Remove this "Integer" constructor(ñœ∞ç¸ˇˇˇˇ
+Q	java:S125j"<This block of commented-out lines of code should be removed.(≤úöÑ
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡íÓ«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íﬂêÁ
+_
+java:S2095#"DUse try-with-resources or close this "Socket" in a "finally" clause.(» õ„˘ˇˇˇˇ
+c
+java:S2095W"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(Ü∞˚ı
+_
+java:S2095Q"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(§ˇË

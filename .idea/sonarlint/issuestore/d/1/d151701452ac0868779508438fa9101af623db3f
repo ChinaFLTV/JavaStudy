@@ -1,0 +1,40 @@
+
+L
+java:S3740\"/Provide the parametrized type for this generic.(ÇùÅÂ8¡ÈĞ«ù/
+K
+java:S1854	"5Remove this useless assignment to local variable "s".(Õéâ®
+R
+java:S1854\"5Remove this useless assignment to local variable "l".(ÇùÅÂ8¦ÈĞ«ù/
+<
+java:S1481	"&Remove this unused "s" local variable.(Õéâ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™•ÔÛûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ„†¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(«”ˆ²şÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(éŸçÖıÿÿÿÿ
+O
+java:S2864""4Iterate over the "entrySet" instead of the "keySet".(û‰å¢ûÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.( ¿
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(€Í ™øÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(ı™ª»ıÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(¢Ëİ×
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(İĞÈüÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(—ğà
+P
+java:S2479>":Remove the non-escaped \u3000 character from this literal.(—ğà
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(”Äø¹
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Æ–â—şÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ÍŠñıÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(û”¬ïúÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+C
+java:S1481\"&Remove this unused "l" local variable.(ÇùÅÂ8ÄÈĞ«ù/
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ï÷Á
+b
+java:S11920"GDefine a constant instead of duplicating this literal "heihei" 4 times.(÷Ø’˜ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¯›

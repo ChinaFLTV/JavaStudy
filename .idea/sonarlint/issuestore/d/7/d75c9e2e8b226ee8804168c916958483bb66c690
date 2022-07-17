@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄŒ·ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(åÔóøÿÿÿÿ
+H
+java:S1172)"-Remove this unused method parameter "string".(°ø›Íşÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ˆ·¢ıÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(®ëµ½üÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÀıĞÛ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(±õ €úÿÿÿÿ
+_
+java:S3358="DExtract this nested ternary operation into an independent statement.(±õ €úÿÿÿÿ
+_
+java:S3358="DExtract this nested ternary operation into an independent statement.(±õ €úÿÿÿÿ
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿˜şÃ
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿˜şÃ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŒ¿ßşÿÿÿÿ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŒ¿ßşÿÿÿÿ
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ó×î
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ó×î
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÔôŠøÿÿÿÿ
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÔôŠøÿÿÿÿ
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÔôŠøÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×»ú±
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ç£ÿÿÿÿÿ

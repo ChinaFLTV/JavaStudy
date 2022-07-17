@@ -1,0 +1,52 @@
+
+J
+java:S3740G"/Provide the parametrized type for this generic.(£ÜÇûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø˜Óµ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ä¼èè
+V	java:S125,"<This block of commented-out lines of code should be removed.(í´Ğ·øÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(¯«™øÿÿÿÿ
+n
+java:S16026"SRemove useless curly braces around statement and then remove useless return keyword(Ø›ÙÏüÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ïÓñúÿÿÿÿ
+n
+java:S1602;"SRemove useless curly braces around statement and then remove useless return keyword(·“ şÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ØÒåúÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¬¾ÔŸùÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+L
+java:S1611G"1Remove the parentheses around the "str" parameter(£ÜÇûÿÿÿÿ
+G
+java:S1602G",Remove useless curly braces around statement(£ÜÇûÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ú…ÍÒüÿÿÿÿ
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(»´
+h
+java:S1602M"SRemove useless curly braces around statement and then remove useless return keyword(»´
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Âšà¸
+i
+java:S1602Q"SRemove useless curly braces around statement and then remove useless return keyword(Âšà¸
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(¦…²ÿÿÿÿÿ
+n
+java:S1602T"SRemove useless curly braces around statement and then remove useless return keyword(¦…²ÿÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ÑÃŸ·ûÿÿÿÿ
+n
+java:S1602X"SRemove useless curly braces around statement and then remove useless return keyword(ÑÃŸ·ûÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¬ÍĞ¶ùÿÿÿÿ
+n
+java:S1602\"SRemove useless curly braces around statement and then remove useless return keyword(¬ÍĞ¶ùÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(¸É˜ä
+i
+java:S1602`"SRemove useless curly braces around statement and then remove useless return keyword(¸É˜ä
+_	java:S119‡"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(µ¥á
+u	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¾¢©øÿÿÿÿ
+u	java:S115¨"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜”ÍÅşÿÿÿÿ
+u	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ¹»·úÿÿÿÿ
+u	java:S115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ±½¬øÿÿÿÿ
+u	java:S115Ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶âïÚúÿÿÿÿ
+u	java:S115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß†ãÈúÿÿÿÿ
+o	java:S115Ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èíˆ{
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹±¸R
+f	java:S114¦"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øõùx
+g	java:S114¸"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ¢ß†
+l	java:S114Á"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…Ñîõúÿÿÿÿ
+f	java:S114Ë"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı×¯B
+g	java:S114Ô"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜ãÌó
