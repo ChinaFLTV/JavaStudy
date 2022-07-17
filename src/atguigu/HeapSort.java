@@ -76,4 +76,11 @@ class GitTest {
 
     }
 
+
+    public void sing() {
+
+        System.out.println("Sing Still Wander~~~~~~");
+
+    }
+
 }
